@@ -1,0 +1,644 @@
+"country","no_of_cases","reporting_date","region","gender","age","symptom_onset","visit_date_hosp","intl_traveler","dom_traveler","exposure_startdate","exposure_enddate","visiting_Wuhan","lives_in_Wuhan","death","recovered","symptom"
+"China",NA,20-01-27,"Hubei","female",28,20-01-07,20-01-10,NA,NA,NA,NA,"0","1",NA,NA,"feaver, cough, difficult in breathing"
+"China",NA,20-01-27,"Hubei","female",51,NA,20-01-11,NA,NA,NA,NA,"0","1",NA,NA,"feaver, cough, difficult in breathing"
+"China",NA,20-01-27,"Shandong","male",37,NA,20-01-17,NA,NA,NA,NA,"0","1",NA,NA,"fever"
+"Japan",1,20-01-15,"Kanagawa","male",35,20-01-03,20-01-06,NA,NA,NA,20-01-06,"1","0",NA,NA,"fever"
+"Japan",5,20-01-28,"Aichi Prefecture","male",45,20-01-22,20-01-26,NA,NA,NA,20-01-20,"0","1",NA,NA,"fever"
+"Japan",6,20-01-28,"Nara Prefecture","male",65,20-01-14,20-01-17,NA,NA,20-01-08,20-01-16,"0","0",NA,NA,"cough, chills, joint pain"
+"Japan",7,20-01-28,"Hokkaido","female",45,20-01-26,20-01-27,NA,NA,NA,20-01-21,"1","1",NA,NA,"fever, cough"
+"Japan",8,20-01-29,"Osaka Prefecture","female",45,20-01-20,20-01-20,NA,NA,20-01-12,20-01-17,"0","0",NA,NA,"fever, cough"
+"Japan",9,20-01-30,"Tokyo","male",55,20-01-29,NA,NA,NA,NA,20-01-29,"0","1",NA,NA,"throat pain, fever"
+"Japan",10,20-01-30,"Mie","male",55,20-01-25,20-01-27,NA,NA,19-12-24,20-01-13,"1","0",NA,NA,"fever"
+"Japan",11,20-01-30,"Japan","female",35,20-01-24,20-01-24,NA,NA,20-01-19,20-01-20,"1","0",NA,NA,"fever, cough"
+"Japan",12,20-01-30,"Kyoto","female",25,20-01-23,20-01-28,NA,NA,20-01-17,20-01-18,"1","0",NA,NA,"fever"
+"Japan",15,20-02-01,"Japan","male",45,20-01-26,20-01-30,NA,NA,NA,20-01-31,"1","0",NA,NA,"fever, cough"
+"Japan",17,20-02-04,"Chiba Prefecture","female",35,20-01-30,20-01-31,NA,NA,NA,NA,"0","1",NA,NA,"fever, runny nose"
+"Japan",18,20-02-04,"Chiba Prefecture","female",55,20-01-31,20-01-31,NA,NA,20-01-19,20-01-19,"1","0",NA,NA,"fever, cough"
+"Japan",19,20-02-04,"Japan","male",55,20-01-25,20-01-26,NA,NA,NA,20-01-22,"0","1",NA,NA,"fever"
+"Japan",21,20-02-05,"Kyoto","male",25,20-01-24,20-01-27,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",24,20-02-10,"Japan","male",45,20-02-08,20-02-10,NA,NA,NA,20-01-30,"1","0",NA,NA,"fever"
+"Japan",25,20-02-10,"Japan","male",55,20-02-07,20-02-07,NA,NA,NA,20-01-30,"0","1",NA,NA,"fever, cough"
+"Japan",27,20-02-13,"Kanagawa","female",85,20-01-22,20-01-28,NA,NA,NA,NA,"0","0",20-02-13,NA,"fatigue"
+"Japan",28,20-02-13,"Tokyo","male",75,20-01-29,20-01-29,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",29,20-02-13,"Wakayama Prefecture","male",55,20-01-31,20-02-08,NA,NA,NA,NA,"0","0",NA,NA,"fever, abdominal pain, diarrhea"
+"Japan",30,20-02-13,"Chiba Prefecture","male",25,20-02-02,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",31,20-02-14,"Japan","male",75,20-02-01,20-02-06,NA,NA,NA,NA,"0","0",20-02-28,NA,"cold, fever, pneumonia"
+"Japan",32,20-02-14,"Okinawa Prefecture","female",65,20-02-05,20-02-12,NA,NA,NA,NA,"0","0",NA,NA,"cough, joint pain"
+"Japan",33,20-02-14,"Tokyo","female",55,20-02-04,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"vomiting, diarrhea, fever, cough"
+"Japan",34,20-02-14,"Tokyo","male",75,20-01-20,20-01-21,NA,NA,NA,NA,"0","0",NA,NA,"fever, loss of appetite"
+"Japan",35,20-02-14,"Aichi Prefecture","male",65,20-02-03,20-02-08,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",36,20-02-14,"Hokkaido","male",55,20-01-31,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",37,20-02-14,"Kanagawa","male",35,20-02-11,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",38,20-02-15,"Wakayama Prefecture","male",55,20-02-04,20-02-06,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",39,20-02-15,"Wakayama Prefecture","female",55,20-02-07,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",40,20-02-15,"Wakayama Prefecture","male",65,NA,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache"
+"Japan",44,20-02-16,"Tokyo","male",65,NA,NA,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, difficulty breathing"
+"Japan",45,20-02-16,"Tokyo","male",35,20-02-03,20-02-04,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",46,20-02-16,"Aichi Prefecture","male",65,20-02-15,20-02-15,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",47,20-02-16,"Nara Prefecture","male",65,20-02-06,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",48,20-02-17,"Aichi Prefecture","male",65,20-02-17,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",51,20-02-17,"Wakayama Prefecture","male",55,20-02-03,20-02-04,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",52,20-02-17,"Wakayama Prefecture","male",55,20-02-07,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",53,20-02-17,"Wakayama Prefecture","female",45,20-02-14,20-02-14,NA,NA,NA,NA,"0","0",NA,NA,"fever, vomiting, diarrhea"
+"Japan",54,20-02-18,"Wakayama Prefecture","male",65,20-02-16,20-02-11,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",55,20-02-18,"Wakayama Prefecture","male",35,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",56,20-02-18,"Tokyo","male",85,20-02-09,NA,NA,NA,NA,NA,"0","0",20-02-26,NA,"fever, pneumonia"
+"Japan",57,20-02-18,"Japan","male",25,20-02-07,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",58,20-02-18,"Japan","male",55,20-02-05,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sputum, malaise"
+"Japan",61,20-02-19,"Sagamihara","male",75,20-02-14,NA,NA,NA,20-02-10,20-02-18,"0","0",NA,NA,"fever, cough"
+"Japan",62,20-02-19,"Kanagawa","male",65,20-02-03,20-02-05,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",63,20-02-19,"Sapporo","male",45,20-02-08,20-02-13,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, muscle pain, joint pain, fever"
+"Japan",64,20-02-19,"Hokkaido","male",65,20-02-03,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat"
+"Japan",65,20-02-19,"Okinawa Prefecture","male",65,20-02-11,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"fever, breathlessness, malaise"
+"Japan",66,20-02-19,"Tokyo","male",75,20-02-04,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, malaise, shortness of breath"
+"Japan",67,20-02-19,"Tokyo","female",75,20-02-04,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, malaise, shortness of breath"
+"Japan",68,20-02-19,"Tokyo","female",75,20-02-03,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, sputum, dyspnea"
+"Japan",69,20-02-19,"Nagoya City","female",55,20-02-17,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",71,20-02-20,"Fukuoka Prefecture","male",65,20-02-13,20-02-13,NA,NA,NA,NA,"0","0",NA,NA,"fever, pneumonia"
+"Japan",73,20-02-20,"Chiba Prefecture","female",75,20-02-14,20-02-15,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",74,20-02-20,"Okinawa Prefecture","male",85,20-02-06,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise, diarrhea, cough"
+"Japan",77,20-02-20,"Nagoya City","male",85,20-02-19,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",78,20-02-20,"Sagamihara","male",85,20-02-14,NA,NA,NA,20-01-11,NA,"0","0",NA,NA,"fever"
+"Japan",80,20-02-21,"Hokkaido","male",5,20-02-15,20-02-17,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever"
+"Japan",82,20-02-21,"Hokkaido","female",45,20-02-16,20-02-18,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever"
+"Japan",83,20-02-21,"Ishikawa","male",55,20-02-16,20-02-16,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever"
+"Japan",85,20-02-21,"Tokyo","female",55,20-02-10,NA,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever, cough, sputum"
+"Japan",86,20-02-21,"Tokyo","female",75,20-02-01,NA,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever, cough, malaise"
+"Japan",87,20-02-21,"Tokyo","female",55,20-02-04,NA,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fatigue"
+"Japan",88,20-02-21,"Chiba Prefecture","male",65,20-02-06,20-02-09,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fatigue, loss of appetite"
+"Japan",90,20-02-21,"Nagoya City","male",75,20-02-19,20-02-21,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever, cough"
+"Japan",91,20-02-21,"Nagoya City","female",25,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,1899-12-30,"fever, cough, breathlessness"
+"Japan",92,20-02-22,"Kumamoto City","female",25,20-02-17,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"cough, fever, headache, nausea, vomiting, diarrhea"
+"Japan",93,20-02-22,"Kumamoto City","male",55,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"cough, fever"
+"Japan",94,20-02-22,"Kumamoto Prefecture","male",65,20-02-15,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, cold, fever, vomiting"
+"Japan",95,20-02-22,"Wakayama Prefecture","male",45,20-02-02,20-02-02,NA,NA,NA,NA,"0","0",NA,NA,"fever, fatigue, cough, diarrhea"
+"Japan",96,20-02-22,"Chiba Prefecture","female",65,20-02-12,20-02-12,NA,NA,NA,NA,"0","0",NA,NA,"nausea"
+"Japan",97,20-02-22,"Japan","female",55,20-02-16,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, joint pain, fever"
+"Japan",98,20-02-22,"Hokkaido","female",75,20-02-06,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"cough, sputum"
+"Japan",99,20-02-22,"Hokkaido","male",85,20-02-03,20-02-03,NA,NA,NA,NA,"0","0",20-02-27,NA,"difficulty breathing"
+"Japan",100,20-02-22,"Hokkaido","male",75,20-02-16,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",102,20-02-22,"Hokkaido","male",65,20-02-10,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",103,20-02-22,"Hokkaido","female",55,20-02-15,20-02-16,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, malaise, headache"
+"Japan",104,20-02-22,"Hokkaido","female",15,20-02-06,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat, malaise"
+"Japan",105,20-02-22,"Hokkaido","female",55,20-02-13,20-02-15,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, cough, fever"
+"Japan",106,20-02-22,"Tokyo","male",65,20-02-12,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",107,20-02-22,"Nagoya City","female",65,20-02-19,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever, nasal discharge, headache"
+"Japan",108,20-02-22,"Nagoya City","female",46,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",109,20-02-22,"Nagoya City","male",65,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",110,20-02-22,"Nagoya City","male",65,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",111,20-02-22,"Japan","female",65,20-02-21,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",112,20-02-22,"Sagamihara","male",55,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",113,20-02-22,"Hokkaido","male",55,20-02-17,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"fever, difficulty breathing"
+"Japan",115,20-02-23,"Nagoya City","female",75,20-02-22,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",116,20-02-23,"Nagoya City","male",75,20-02-21,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",117,20-02-23,"Chiba Prefecture","male",45,20-02-12,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"joint pain, muscle pain, cough, malaise"
+"Japan",127,20-02-23,"Sagamihara","male",55,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache"
+"Japan",128,20-02-24,"Ishikawa","male",65,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat"
+"Japan",129,20-02-24,"Sapporo","female",75,20-02-21,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",130,20-02-24,"Sapporo","male",55,20-02-14,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"chills"
+"Japan",131,20-02-24,"Hokkaido","female",25,20-02-18,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",132,20-02-24,"Hokkaido","male",55,20-02-17,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Japan",133,20-02-24,"Kanagawa","male",55,20-02-14,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever, respiratory distress"
+"Japan",134,20-02-24,"Tokyo","male",45,20-02-13,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",135,20-02-24,"Tokyo","male",55,20-02-19,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",136,20-02-24,"Tokyo","male",35,20-02-18,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat"
+"Japan",137,20-02-24,"Sagamihara","female",55,20-02-20,NA,NA,NA,NA,NA,"0","0",NA,NA,"mild cough, sputum, throat discomfort"
+"Japan",138,20-02-24,"Sagamihara","female",25,20-02-21,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, sneeze"
+"Japan",139,20-02-24,"Sagamihara","female",25,20-02-19,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fever, chills, joint pain, heavy head"
+"Japan",140,20-02-25,"Nagano Prefecture","male",65,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, fever"
+"Japan",141,20-02-25,"Kumamoto City","male",55,20-02-20,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"sore throat"
+"Japan",142,20-02-25,"Kumamoto City","female",65,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",143,20-02-25,"Sapporo","female",65,20-02-17,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",145,20-02-25,"Nagoya City","female",75,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",146,20-02-25,"Nagoya City","female",75,20-02-23,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",147,20-02-25,"Nagoya City","female",45,20-02-23,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"fever, runny nose"
+"Japan",148,20-02-26,"Chiba Prefecture","male",55,20-02-22,20-02-25,NA,NA,20-02-12,20-02-18,"0","0",NA,NA,"fever"
+"Japan",149,20-02-26,"Chiba Prefecture","male",65,20-02-22,20-02-24,NA,NA,NA,20-02-20,"0","0",NA,NA,"fever"
+"Japan",150,20-02-26,"Chiba Prefecture","male",75,20-02-12,NA,NA,NA,NA,20-02-21,"0","0",NA,NA,"fever"
+"Japan",151,20-02-26,"Hokkaido","male",25,20-02-17,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"headache, fever, malaise"
+"Japan",152,20-02-26,"Hokkaido","female",25,20-02-19,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, fever"
+"Japan",153,20-02-26,"Hokkaido","male",75,20-02-23,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",154,20-02-26,"Hokkaido",NA,NA,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",20-02-25,NA,"cough"
+"Japan",155,20-02-26,"Hokkaido","female",75,20-02-17,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise"
+"Japan",156,20-02-26,"Hokkaido","female",75,20-02-16,20-02-16,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",157,20-02-26,"Hokkaido","male",45,20-02-24,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",158,20-02-26,"Kanagawa","male",65,NA,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",159,20-02-26,"Osaka Prefecture","female",45,20-02-06,20-02-06,NA,NA,NA,NA,"0","0",NA,NA,"throat discomfort, cough, chest pain"
+"Japan",160,20-02-26,"Tokyo","male",85,20-02-22,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sputum, dyspnea"
+"Japan",161,20-02-26,"Tokyo","male",75,20-02-12,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sputum, dyspnea"
+"Japan",162,20-02-26,"Tokyo","male",75,20-02-14,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sputum"
+"Japan",163,20-02-26,"Nagoya City","male",55,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, thirst"
+"Japan",164,20-02-26,"Nagoya City","male",65,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",165,20-02-26,"Nagoya City","male",75,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, runny nose"
+"Japan",166,20-02-26,"Nagoya City","male",75,20-02-23,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",167,20-02-26,"Nagoya City","female",75,20-02-24,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sore throat, runny nose"
+"Japan",168,20-02-27,"Gifu Prefecture","male",55,20-02-14,20-02-15,NA,NA,NA,NA,"0","0",NA,NA,"malaise, fever, headache"
+"Japan",169,20-02-27,"Gifu Prefecture","female",55,20-02-23,20-02-26,NA,NA,20-02-20,20-02-24,"0","0",NA,NA,"throat pain, chills"
+"Japan",170,20-02-27,"Ishikawa","male",55,20-02-16,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",171,20-02-27,"Kanagawa","male",55,20-02-20,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache, malaise"
+"Japan",172,20-02-27,"Tokyo","female",60,20-02-10,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sputum"
+"Japan",173,20-02-27,"Osaka Prefecture","male",45,20-02-20,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, headache"
+"Japan",175,20-02-27,"Hokkaido","male",55,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"cough, malaise"
+"Japan",176,20-02-27,"Hokkaido","male",35,20-02-17,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",177,20-02-27,"Hokkaido","male",75,20-02-16,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, fever"
+"Japan",178,20-02-27,"Hokkaido","male",65,20-02-18,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, fever, joint pain, dyspnea"
+"Japan",179,20-02-27,"Hokkaido","male",45,20-02-15,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"vomiting, cough, fever, sore throat"
+"Japan",180,20-02-27,"Hokkaido","male",45,20-02-21,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",181,20-02-27,"Hokkaido","male",5,20-02-21,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",182,20-02-27,"Hokkaido","male",35,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache, malaise, joint pain"
+"Japan",183,20-02-27,"Hokkaido","male",5,20-02-21,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",184,20-02-27,"Hokkaido","male",85,20-02-24,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",185,20-02-27,"Hokkaido","male",35,20-02-20,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"cough, fever, joint pain"
+"Japan",186,20-02-27,"Hokkaido","male",85,20-02-22,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"cough, fever"
+"Japan",187,20-02-27,"Hokkaido","male",65,20-02-22,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise, sore throat"
+"Japan",188,20-02-27,"Hokkaido","female",45,20-02-24,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, sore throat"
+"Japan",189,20-02-27,"Nagoya City","female",65,20-02-26,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",190,20-02-27,"Nagoya City","male",65,20-02-26,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, headache"
+"Japan",192,20-02-28,"Sagamihara City","female",45,20-02-18,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"chills, headache, fatigue"
+"Japan",193,20-02-28,"Sagamihara City","male",25,20-02-20,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",195,20-02-28,"Hokkaido","female",85,20-02-21,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"cough, sputum"
+"Japan",196,20-02-28,"Hokkaido","male",5,20-02-18,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",197,20-02-28,"Hokkaido","male",85,20-02-25,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever, fatigue, difficulty walking"
+"Japan",198,20-02-28,"Hokkaido","female",65,20-02-19,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Japan",199,20-02-28,"Hokkaido","male",65,20-02-21,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",200,20-02-28,"Hokkaido","male",65,20-02-18,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"chills, fever, malaise"
+"Japan",201,20-02-28,"Hokkaido","female",65,20-02-19,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"sputum, cough, fever, cough, difficulty breathing"
+"Japan",202,20-02-28,"Hokkaido","male",45,20-02-12,20-02-18,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",203,20-02-28,"Hokkaido","male",75,20-02-20,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",205,20-02-28,"Sapporo","male",65,20-02-20,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",206,20-02-28,"Sapporo","male",65,20-02-18,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",207,20-02-28,"Nagoya City","male",65,20-02-27,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",208,20-02-28,"Osaka Prefecture","female",45,20-02-25,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"headache, fever"
+"Japan",209,20-02-29,"Kochi Prefecture","female",35,20-02-13,20-02-14,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, fever, cough, runny nose"
+"Japan",210,20-02-29,"Niigata City","male",65,20-02-25,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise, loss of appetite"
+"Japan",211,20-02-29,"Sendai City","male",75,NA,20-02-28,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat"
+"Japan",212,20-02-29,"Tokyo","female",25,20-02-24,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",213,20-02-29,"Hokkaido","female",95,20-02-20,20-02-20,NA,NA,NA,NA,"0","0",NA,NA,"cough, nasal discharge, fever, difficulty breathing"
+"Japan",214,20-02-29,"Hokkaido","female",65,20-02-21,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"cough, general malaise, joint muscle pain"
+"Japan",215,20-02-29,"Hokkaido","female",35,20-02-19,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache, malaise"
+"Japan",217,20-02-29,"Nagoya City","female",75,20-02-23,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, vomiting, hospitalization"
+"Japan",218,20-03-01,"Kitakyushu City","male",65,20-02-19,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"cough, fever"
+"Japan",219,20-03-01,"Kanagawa","female",75,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, pneumonia"
+"Japan",220,20-03-01,"Kanagawa","female",55,20-02-14,20-02-14,NA,NA,NA,NA,"0","0",NA,NA,"headache, fever, cough"
+"Japan",221,20-03-01,"Funabashi City","male",25,20-02-22,20-03-01,NA,NA,NA,NA,"0","0",NA,NA,"fever, diarrhea, nausea, difficulty breathing, coughing, loss of appetite"
+"Japan",222,20-03-01,"Hokkaido","female",25,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, malaise"
+"Japan",223,20-03-01,"Hokkaido","male",45,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",224,20-03-01,"Tokyo","female",55,20-02-12,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Japan",225,20-03-01,"Tokyo","male",75,20-02-26,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, difficulty breathing"
+"Japan",226,20-03-01,"Sagamihara City","male",55,20-02-19,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"malaise, fever, joint pain"
+"Japan",227,20-03-01,"Sagamihara City","female",55,20-02-19,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"malaise, fever, joint pain, sputum, vomiting, diarrhea"
+"Japan",228,20-03-01,"Kochi Prefecture","female",65,20-02-25,20-02-29,NA,NA,NA,NA,"0","0",NA,NA,"cough, malaise, fatigue"
+"Japan",229,20-03-01,"Nagoya City","female",85,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"pneumonia, fever"
+"Japan",230,20-03-01,"Nagoya City","female",55,20-02-26,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"pneumonia, fever"
+"Japan",231,20-03-01,"Nagoya City","female",65,20-02-27,20-02-29,NA,NA,NA,NA,"0","0",NA,NA,"fever, whole body pain, pneumonia"
+"Japan",232,20-03-01,"Nishimiya City","male",45,20-02-25,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",233,20-03-02,"Kochi Prefecture","female",35,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",234,20-03-02,"Niigata City","male",45,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",235,20-03-02,"Hokkaido","male",65,20-02-19,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, difficulty breathing"
+"Japan",236,20-03-02,"Hokkaido","male",65,20-02-22,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, fatigue, diarrhea"
+"Japan",237,20-03-02,"Hokkaido","male",55,20-02-21,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"fever, runny nose, sore throat, malaise, joint pain"
+"Japan",238,20-03-02,"Asakihawa City","female",45,20-02-24,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, fever, joint pain, pneumonia"
+"Japan",239,20-03-02,"Sapporo","male",55,20-02-15,20-02-19,NA,NA,NA,NA,"0","0",NA,NA,"fatigue, fever"
+"Japan",240,20-03-02,"Osaka Prefecture","male",55,20-02-22,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",241,20-03-02,"Osaka Prefecture","female",45,20-02-24,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, throat discomfort"
+"Japan",242,20-03-03,"Oita City","female",35,20-02-23,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache, malaise"
+"Japan",243,20-03-03,"Kobe City","male",45,20-02-27,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"fever, malaise, pneumonia"
+"Japan",244,20-03-03,"Sapporo","female",35,20-02-29,20-03-01,NA,NA,NA,NA,"0","0",NA,NA,"fever, headache, cough"
+"Japan",245,20-03-03,"Sapporo","female",65,20-02-27,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"difficulty breathing, fever"
+"Japan",246,20-03-03,"Niigata City","female",65,20-02-22,NA,NA,NA,NA,NA,"0","0",NA,NA,"chills, cough, fever"
+"Japan",247,20-03-03,"Niigata City","female",55,20-02-23,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",248,20-03-03,"Niigata City","male",45,20-02-24,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",249,20-03-03,"Kyoto","female",55,20-02-21,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",250,20-03-03,"Tokyo","female",55,20-02-23,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Japan",251,20-03-03,"Osaka Prefecture","male",55,20-02-23,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"fever, pneumonia"
+"Japan",252,20-03-03,"Osaka Prefecture","female",45,20-02-26,20-03-02,NA,NA,NA,NA,"0","0",NA,NA,"back pain, fever, runny nose"
+"Japan",253,20-03-03,"Aichi Prefecture","female",75,20-02-24,20-02-28,NA,NA,NA,NA,"0","0",NA,NA,"fever, cold"
+"Japan",254,20-03-03,"Aichi Prefecture","male",85,20-02-28,20-03-02,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Japan",255,20-03-03,"Aichi Prefecture","female",25,20-02-28,20-02-28,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sore throat, pneumonia"
+"Japan",256,20-03-03,"Aichi Prefecture","male",75,20-02-26,20-02-27,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, runny nose"
+"Malaysia",5,20-01-29,"Langkawi","female",4,NA,20-01-26,NA,NA,NA,20-01-20,"0","0",NA,NA,"fever, cough, flu"
+"Malaysia",10,20-02-04,"Malaysia","male",63,20-01-23,NA,NA,NA,NA,20-01-18,"0","1",NA,NA,"fever"
+"Malaysia",13,20-02-06,"Malaysia","female",40,20-02-01,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat, cough"
+"Malaysia",14,20-02-06,"Malaysia","female",37,NA,20-02-01,NA,NA,NA,20-01-25,"0","1",NA,NA,"mild fever"
+"Malaysia",15,20-02-07,"Johor","female",59,20-01-26,NA,NA,NA,NA,20-01-17,"0","1",NA,NA,"fever"
+"Malaysia",18,20-02-10,"Malaysia","male",31,20-02-03,NA,NA,NA,NA,20-02-01,"0","0",NA,NA,"cough"
+"Malaysia",20,20-02-16,"Malaysia","male",27,20-02-13,20-02-13,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Malaysia",21,20-02-16,"Malaysia","female",32,20-02-13,NA,NA,NA,20-01-22,20-01-30,"0","0",NA,NA,"sore throat"
+"Singapore",2,20-01-24,"Singapore","female",53,20-01-21,20-01-22,NA,NA,NA,20-01-21,"0","1",NA,NA,"fever, cough, chills"
+"Singapore",15,20-01-31,"Singapore","female",47,20-01-30,20-01-30,NA,NA,NA,20-01-30,"1","0",NA,NA,"fever"
+"Singapore",17,20-02-01,"Singapore","female",47,20-01-30,20-01-30,NA,NA,NA,20-01-30,"1","0",NA,NA,"fever"
+"Singapore",19,20-02-04,"Singapore","female",28,20-01-29,20-02-03,NA,NA,20-01-23,20-01-23,"0","0",NA,NA,"fever, sore throat"
+"Singapore",25,20-02-05,"Singapore","male",NA,20-01-24,20-02-03,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Singapore",29,20-02-06,"Singapore","male",41,20-01-28,20-01-29,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"South Korea",1,20-01-20,"South Korea","female",35,NA,20-01-19,NA,NA,NA,20-01-19,"0","1",NA,NA,"high fever, chills, muscle pain"
+"South Korea",2,20-01-24,"South Korea","male",55,20-01-10,20-01-19,NA,NA,NA,20-01-22,"1","0",NA,NA,"fever, sore throat"
+"South Korea",3,20-01-25,"South Korea","male",54,20-01-22,20-01-25,NA,NA,NA,20-01-20,"0","1",NA,NA,"fever, chills, muscle cramps"
+"South Korea",4,20-01-27,"South Korea","male",55,20-01-21,20-01-21,NA,NA,NA,20-01-20,"1","0",NA,NA,"high fever, aching muscles"
+"South Korea",7,20-01-31,"South Korea","male",28,20-01-26,NA,NA,NA,NA,20-01-23,"1","0",NA,NA,"cough"
+"South Korea",10,20-01-31,"South Korea","female",52,20-01-29,NA,NA,NA,NA,NA,"0","0",NA,NA,"headache"
+"South Korea",11,20-01-31,"South Korea","male",25,20-01-30,NA,NA,NA,NA,NA,"0","0",NA,NA,"sore body"
+"South Korea",16,20-02-04,"South Korea","female",42,20-01-25,NA,NA,NA,20-01-15,20-01-19,"0","0",NA,NA,"chills"
+"South Korea",24,20-02-07,"South Korea","male",28,NA,NA,NA,NA,NA,NA,"1","0",NA,NA,"sore throat"
+"South Korea",25,20-02-09,"South Korea","female",73,NA,NA,NA,NA,NA,20-01-31,"0","0",NA,NA,"fever, cough, sore throat"
+"South Korea",29,20-02-16,"South Korea","male",82,NA,20-02-15,NA,NA,NA,NA,"0","0",NA,NA,"chest discomfort"
+"South Korea",30,20-02-17,"South Korea","female",68,20-02-06,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough, chill, muscle pain"
+"South Korea",31,20-02-18,"South Korea","female",61,20-02-07,20-02-17,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Taiwan",1,20-01-21,"Taiwan","female",55,20-01-11,20-01-20,NA,NA,NA,20-01-20,"1","0",NA,NA,"fever, cough, shortness of breath"
+"Taiwan",2,20-01-24,"Taiwan","female",55,20-01-23,20-01-23,NA,NA,NA,20-01-21,"1","0",NA,NA,"fever"
+"Taiwan",3,20-01-24,"Taiwan","male",55,20-01-23,20-01-23,NA,NA,NA,20-01-21,"1","0",NA,NA,"flu symptoms"
+"Taiwan",4,20-01-27,"Taiwan","female",50,20-01-22,20-01-25,NA,NA,20-01-13,20-01-15,"1","0",NA,NA,"cough"
+"Taiwan",5,20-01-27,"Taiwan","female",50,20-01-25,20-01-25,NA,NA,NA,20-01-20,"1","0",NA,NA,"fever, muscle aches"
+"Taiwan",6,20-01-28,"Taiwan","female",70,20-01-25,20-01-25,NA,NA,NA,20-01-22,"0","1",NA,NA,"fever"
+"Taiwan",7,20-01-28,"Taiwan","female",70,20-01-25,20-01-25,NA,NA,NA,20-01-22,"0","1",NA,NA,"fever"
+"Taiwan",8,20-01-28,"Taiwan","male",55,20-01-26,NA,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Taiwan",9,20-01-30,"Taiwan","male",NA,20-01-12,NA,NA,NA,NA,NA,"1","0",NA,NA,"cough, runny nose"
+"Taiwan",12,20-02-06,"Taiwan","male",45,20-02-03,20-02-04,NA,NA,NA,20-01-17,"1","0",NA,NA,"fever, cough, headache"
+"Taiwan",13,20-02-06,"Taiwan","female",25,20-02-01,20-02-04,NA,NA,NA,20-01-21,"0","1",NA,NA,"cough, chest pain"
+"Taiwan",14,20-02-06,"Taiwan","male",55,20-01-26,20-02-01,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Taiwan",15,20-02-06,"Taiwan","female",55,20-01-28,20-02-03,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Taiwan",16,20-02-06,"Taiwan","female",45,20-02-01,20-02-03,NA,NA,NA,NA,"0","0",NA,NA,"fever, chills, sore throat, runny nose, shortness of breath"
+"Taiwan",19,20-02-16,"Taiwan","male",65,20-01-27,20-02-03,NA,NA,NA,NA,"0","0",NA,NA,"cough, shortness of breath"
+"Taiwan",22,20-02-17,"Taiwan","male",35,20-01-28,NA,NA,NA,20-01-27,20-01-27,"0","0",NA,NA,"fever, cough"
+"Taiwan",24,20-02-20,"Taiwan","female",60,20-01-22,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Taiwan",25,20-02-21,"Taiwan","female",45,20-01-28,20-01-30,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Taiwan",26,20-02-21,"Taiwan","female",25,NA,20-02-03,NA,NA,NA,NA,"0","0",NA,NA,"reflux"
+"Taiwan",28,20-02-23,"Taiwan","male",55,NA,NA,NA,NA,NA,NA,"0","0",NA,NA,"throat discomfort"
+"Taiwan",29,20-02-24,"Taiwan","male",45,20-01-29,NA,NA,NA,NA,NA,"0","0",NA,NA,"physical discomfort"
+"Taiwan",32,20-02-26,"Taiwan","female",35,NA,20-02-24,NA,NA,20-02-11,20-02-16,"0","0",NA,NA,"throat discomfort"
+"Taiwan",33,20-02-28,"Taiwan","male",35,20-02-25,NA,NA,NA,20-02-17,20-02-22,"0","0",NA,NA,"cough, itchy throat"
+"Thailand",1,20-01-13,"Thailand","female",61,20-01-05,20-01-08,NA,NA,NA,20-01-08,"0","1",NA,NA,"fever, chills, sore throat, headache"
+"Thailand",3,20-01-22,"Thailand","male",68,20-01-19,20-01-19,NA,NA,NA,NA,"1","0",NA,NA,"fever"
+"Thailand",4,20-01-22,"Thailand","female",73,20-01-13,20-01-13,NA,NA,NA,20-01-13,"1","0",NA,NA,"fever"
+"Thailand",5,20-01-22,"Thailand","male",NA,20-01-19,20-01-19,NA,NA,NA,NA,"1","0",NA,NA,"fever"
+"Thailand",6,20-01-24,"Thailand","female",33,20-01-23,20-01-23,NA,NA,NA,20-01-21,"1","0",NA,NA,"fever, coughing, muscle aches"
+"Thailand",38,20-02-26,"Thailand","male",NA,NA,20-02-23,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Thailand",41,20-02-28,"Thailand","male",25,NA,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"USA",9,20-02-03,"California","male",57,20-01-25,NA,"1",0,20-01-18,20-01-24,"1","0",NA,NA,"cough, fever"
+"Vietnam",1,20-01-23,"Ho Chi Minh City","male",66,20-01-17,20-01-17,NA,NA,NA,20-01-13,"0","1",NA,NA,"fever"
+"Vietnam",2,20-01-23,"Ho Chi Minh City","male",28,20-01-20,NA,NA,NA,20-01-13,NA,"0","0",NA,NA,"fever"
+"Vietnam",10,20-02-04,"Vinh Phuc","female",42,20-01-31,NA,NA,NA,20-01-22,20-01-28,"0","0",NA,NA,"fever"
+"Vietnam",14,20-02-09,"Vinh Phuc","female",55,20-02-02,NA,NA,NA,20-01-28,20-01-28,"0","0",NA,NA,"fever, headache, runny nose"
+"Vietnam",16,20-02-13,"Vinh Phuc","male",50,20-02-11,NA,NA,NA,NA,NA,"0","0",NA,NA,"tired"
+"Canada",1,20-01-26,"Toronto","male",56,NA,20-01-23,NA,NA,NA,20-01-22,"1","0",NA,NA,"fever, cough"
+"Cambodia",1,20-01-27,"Preah Sihanouk Province","male",60,20-01-25,NA,NA,NA,NA,20-01-23,"0","1",NA,NA,"fever, runny nose"
+"Sri Lanka",1,20-01-28,"Sri Lanka","female",40,20-01-25,20-01-25,NA,NA,NA,20-01-19,"0","1",NA,NA,"fever"
+"Germany",1,20-01-28,"Bavaria","male",33,20-01-24,NA,NA,NA,20-01-20,20-01-21,"0","0",NA,NA,"sore throat, chills, myalgias, fever, cough"
+"Germany",21,20-02-26,"North Rhine-Westphalia","male",47,20-02-16,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",1,20-01-22,"Hong Kong","male",39,20-01-21,20-01-22,NA,NA,NA,NA,"0","1",NA,NA,"fever"
+"Hong Kong",3,20-01-24,"Hong Kong","female",62,20-01-20,20-01-23,NA,NA,NA,20-01-19,"0","1",NA,NA,"fever, cough"
+"Hong Kong",4,20-01-24,"Hong Kong","female",62,20-01-23,20-01-23,NA,NA,NA,20-01-22,"0","1",NA,NA,"feve\"
+"Hong Kong",5,20-01-24,"Hong Kong","male",63,20-01-23,20-01-23,NA,NA,NA,20-01-22,"0","1",NA,NA,"fever, cough"
+"Hong Kong",6,20-01-27,"Hong Kong","male",47,20-01-20,20-01-21,NA,NA,NA,20-01-23,"0","1",NA,NA,"fever"
+"Hong Kong",7,20-01-27,"Hong Kong","female",68,20-01-21,20-01-25,NA,NA,NA,20-01-25,"1","0",NA,NA,"fever"
+"Hong Kong",8,20-01-27,"Hong Kong","male",64,20-01-25,20-01-25,NA,NA,NA,20-01-19,"0","1",NA,NA,"fever"
+"Hong Kong",11,20-01-30,"Yau Ma Tei","female",37,20-01-28,20-01-30,NA,NA,20-01-22,20-01-28,"0","0",NA,NA,"cough"
+"Hong Kong",12,20-01-30,"Tsing Yi","male",75,20-01-22,20-01-24,NA,NA,NA,NA,"0","0",NA,NA,"cough, shortness of breath"
+"Hong Kong",13,20-01-31,"Kowloon","male",39,20-01-31,20-01-31,NA,NA,20-01-21,20-01-23,"1","0",NA,NA,"myalgia, fever"
+"Hong Kong",14,20-02-02,"Hong Kong","male",80,20-01-19,20-01-30,NA,NA,20-01-10,20-01-10,"0","0",NA,NA,"fever"
+"Hong Kong",15,20-02-02,"Kowloon","female",72,20-02-01,20-02-01,NA,NA,20-01-23,20-01-31,"0","0",NA,NA,"fever, cough"
+"Hong Kong",16,20-02-04,"Kowloon","female",64,20-01-23,20-01-23,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Hong Kong",17,20-02-04,"Hong Kong","male",60,20-01-22,20-01-30,NA,NA,NA,NA,"0","0",NA,NA,"fever, myalgia, shortness of breath"
+"Hong Kong",18,20-02-04,"Kowloon","male",25,20-01-28,20-01-29,NA,NA,NA,NA,"0","0",NA,NA,"cough, runny nose, diarrhea"
+"Hong Kong",19,20-02-05,"Kwun Tong","female",56,20-02-04,20-02-04,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Hong Kong",20,20-02-05,"Kwun Tong","female",28,20-01-30,20-02-04,NA,NA,NA,NA,"0","0",NA,NA,"cough, sore throat"
+"Hong Kong",21,20-02-05,"Kwai Chung","male",56,20-01-30,20-02-01,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough, sore throat"
+"Hong Kong",22,20-02-06,"Kwai Chung","female",55,20-02-01,20-02-02,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, fever, diarrhea"
+"Hong Kong",23,20-02-06,"Hong Kong","female",63,20-01-26,20-02-05,NA,NA,NA,NA,"0","0",NA,NA,"cough, malaise"
+"Hong Kong",24,20-02-06,"Hong Kong","female",65,20-01-28,20-01-29,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",25,20-02-07,"Zhuhai","male",58,20-02-04,20-02-06,NA,NA,NA,20-02-05,"0","0",NA,NA,"fever, cough"
+"Hong Kong",26,20-02-07,"Fo Tan","male",42,20-02-03,20-02-03,NA,NA,20-01-22,20-02-02,"0","0",NA,NA,"fever, cough"
+"Hong Kong",27,20-02-09,"Wan Chai","male",24,20-01-30,20-01-30,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",28,20-02-09,"Ngau Chi Wan","male",70,20-01-30,20-02-01,NA,NA,NA,NA,"0","0",NA,NA,"cough, chills, shortness of breath, diarrhea"
+"Hong Kong",50,20-02-12,"Hong Kong","male",51,20-02-03,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Hong Kong",51,20-02-13,"Hong Kong","male",43,20-01-29,20-01-31,NA,NA,20-01-30,20-01-30,"0","0",NA,NA,"cough, diarrhea, vomiting"
+"Hong Kong",52,20-02-13,"Hong Kong","female",67,20-01-31,20-01-31,NA,NA,20-01-26,20-01-26,"0","0",NA,NA,"cough, fever, chills"
+"Hong Kong",53,20-02-13,"Hong Kong","male",37,20-02-08,20-02-09,NA,NA,20-01-26,20-01-26,"0","0",NA,NA,"fever"
+"Hong Kong",55,20-02-14,"Hong Kong","male",70,20-02-02,20-02-12,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Hong Kong",57,20-02-16,"Hong Kong","male",54,NA,20-02-07,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Hong Kong",58,20-02-17,"Hong Kong","male",69,20-02-08,20-02-08,NA,NA,NA,NA,"0","0",NA,NA,"cough, shortness of breath"
+"Hong Kong",59,20-02-17,"Hong Kong","male",45,20-02-12,20-02-13,NA,NA,NA,NA,"0","0",NA,NA,"fever, sore throat"
+"Hong Kong",60,20-02-17,"Hong Kong","female",46,20-02-08,20-02-10,NA,NA,NA,NA,"0","0",NA,NA,"runny nose, cough"
+"Hong Kong",61,20-02-18,"Hong Kong","female",32,20-02-02,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",85,20-02-25,"Hong Kong","female",60,20-02-12,20-02-24,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Hong Kong",86,20-02-26,"Hong Kong","female",49,20-02-18,20-02-22,NA,NA,NA,NA,"0","0",NA,NA,"cough, sputum, sore throat"
+"Hong Kong",87,20-02-26,"Hong Kong","female",21,20-02-12,20-02-25,NA,NA,20-01-25,20-02-22,"0","0",NA,NA,"fever"
+"Hong Kong",88,20-02-26,"Hong Kong","male",16,20-02-17,20-02-25,NA,NA,20-01-25,20-02-22,"0","0",NA,NA,"runny nose"
+"Hong Kong",89,20-02-26,"Hong Kong","male",80,20-02-25,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",91,20-02-26,"Hong Kong","male",26,20-02-20,20-02-21,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Hong Kong",92,20-02-27,"Hong Kong","female",70,20-02-13,20-02-13,NA,NA,NA,NA,"0","0",NA,NA,"cough with sputum"
+"Hong Kong",93,20-02-27,"Hong Kong","female",89,20-02-25,20-02-26,NA,NA,NA,NA,"0","0",NA,NA,"cough"
+"Hong Kong",95,20-02-29,"Hong Kong","female",46,20-02-29,NA,NA,NA,NA,NA,"0","0",NA,NA,"sore throat"
+"Hong Kong",96,20-03-01,"Hong Kong","female",68,20-02-16,NA,NA,NA,20-01-25,20-02-21,"0","0",NA,NA,"fever, cough"
+"Hong Kong",98,20-03-02,"Hong Kong","female",71,20-02-12,20-02-14,NA,NA,NA,NA,"0","0",NA,NA,"cough, runny nose"
+"Hong Kong",99,20-03-02,"Hong Kong","female",76,20-02-28,NA,NA,NA,NA,NA,"0","0",NA,NA,"fever, shortness of breath, cough, abdominal pain"
+"Hong Kong",100,20-03-02,"Hong Kong","male",79,20-02-28,20-02-29,NA,NA,NA,NA,"0","0",NA,NA,"fever, cough"
+"Italy",4,20-02-20,"Lombardy","male",38,20-02-14,20-02-16,NA,NA,NA,NA,"0","0",NA,NA,"fever"
+"Phillipines",1,20-02-02,"Manila","male",44,20-01-25,20-01-25,NA,NA,NA,20-01-21,"0","1",20-02-01,NA,"fever, cough, sore throat"
+"Finland",1,20-01-29,"Lapland","female",32,20-01-26,20-01-28,NA,NA,NA,20-01-22,"0","1",NA,NA,"fever"
+"Spain",11,20-02-26,"Barcelona","male",22,NA,20-02-25,NA,NA,NA,NA,"0","0",NA,NA,"sore throat, fever"
+"Sweden",1,20-01-31,"Jonkoping","female",25,20-01-27,NA,NA,NA,NA,20-01-24,"1","0",NA,NA,"cough"
+"USA",1,20-01-21,"Washington","male",30,20-01-16,20-01-19,"1",0,NA,20-01-15,"1","0",NA,20-02-20,NA
+"USA",2,20-01-24,"Illinois","female",60,20-01-16,20-01-16,"1",0,NA,20-01-13,"1","0",NA,20-02-06,NA
+"USA",3,20-01-26,"California","male",55,NA,NA,"1",0,NA,NA,"1","0",NA,NA,NA
+"USA",4,20-01-26,"Arizona","male",NA,NA,NA,"1",0,NA,NA,"1","0",NA,NA,NA
+"USA",5,20-01-26,"California","male",NA,20-01-22,20-01-22,"1",0,NA,NA,"0","1",NA,NA,NA
+"USA",7,20-01-31,"California","male",NA,NA,NA,"1",0,NA,20-01-24,"1","0",NA,NA,NA
+"USA",8,20-01-31,"Massachusetts","male",23,20-01-29,NA,"1",0,NA,20-01-29,"1","0",NA,NA,NA
+"USA",11,20-02-03,"California","female",NA,NA,NA,"1",0,NA,20-01-23,"1","0",NA,NA,NA
+"USA",13,20-02-10,"California","female",NA,NA,NA,"1",0,NA,20-02-05,"1","0",NA,NA,NA
+"USA",14,20-02-12,"California",NA,NA,NA,NA,"1",0,NA,20-02-07,"1","0",NA,NA,NA
+"USA",15,20-02-13,"Texas","male",NA,NA,NA,"1",0,NA,20-02-07,"1","0",NA,NA,NA
+"USA",16,20-02-18,"California",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",18,20-02-21,"California",NA,NA,NA,NA,"1",0,NA,20-02-02,"0","0",NA,NA,NA
+"USA",19,20-02-21,"California",NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",20,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",21,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",22,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",23,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",24,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",25,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",26,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",27,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",28,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",29,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",30,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",31,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",32,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",33,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",34,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",35,20-02-21,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",36,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",37,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",38,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",39,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",40,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",41,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",42,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",43,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",44,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",45,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",46,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",47,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",48,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",49,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",50,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",51,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",52,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",53,20-02-24,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",54,20-02-25,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",55,20-02-25,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",56,20-02-25,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",57,20-02-25,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",58,20-02-26,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",59,20-02-26,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",61,20-02-28,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",62,20-02-28,NA,NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",66,20-02-28,"Washington","female",55,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",72,20-03-01,"Rhode Island","male",45,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",78,20-03-01,"California","female",NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",79,20-03-01,"California","male",NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",80,20-03-01,"New York","female",38,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",87,20-03-01,"Florida","female",29,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",88,20-03-01,"Rhode Island","female",15,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",89,20-03-01,"Texas",NA,NA,NA,NA,"1",0,NA,NA,"1","0",NA,NA,NA
+"USA",91,20-03-01,"USA",NA,NA,NA,NA,"1",0,NA,20-02-13,"0","0",NA,NA,NA
+"USA",92,20-03-02,"New Hampshire",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",99,20-03-02,"California",NA,NA,NA,NA,"1",0,20-02-11,20-02-21,"0","0",NA,NA,NA
+"USA",102,20-03-02,"Massachusetts","female",25,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",103,20-03-02,"Georgia","male",NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",124,20-03-03,"California",NA,NA,NA,NA,"1",0,NA,20-02-23,"0","0",NA,NA,NA
+"USA",125,20-03-03,"California","male",65,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",126,20-03-03,"California","female",35,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",129,20-03-03,"California",NA,NA,NA,NA,"1",0,20-02-11,20-02-21,"0","0",NA,NA,NA
+"USA",137,20-03-04,"California",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",138,20-03-04,"California",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",139,20-03-04,"California",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",140,20-03-04,"Washington",NA,NA,NA,NA,"1",0,NA,NA,"0","0",NA,NA,NA
+"USA",158,20-03-04,"Texas","male",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",166,20-03-05,"Florida","male",71,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",175,20-03-05,"Illinois","male",21,20-03-03,20-03-05,"1",0,NA,20-03-03,NA,NA,NA,NA,NA
+"USA",207,20-03-05,"California","female",NA,20-03-02,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",210,20-03-05,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",211,20-03-05,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",212,20-03-05,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",213,20-03-05,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",214,20-03-05,"Texas","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",215,20-03-05,"Texas","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",227,20-03-05,"Colorado","male",35,20-03-03,NA,"1",0,NA,20-02-29,NA,NA,NA,NA,NA
+"USA",228,20-03-05,"Massachusetts","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",229,20-03-05,"Maryland","female",75,NA,NA,"1",0,NA,20-02-20,NA,NA,NA,NA,NA
+"USA",230,20-03-05,"Maryland","male",75,NA,NA,"1",0,NA,20-02-20,NA,NA,NA,NA,NA
+"USA",231,20-03-05,"Maryland","female",55,NA,NA,"1",0,NA,20-02-20,NA,NA,NA,NA,NA
+"USA",232,20-03-05,"Colorado","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",238,20-03-06,"Pennsylvania","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",239,20-03-06,"Texas","male",60,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",240,20-03-06,"Texas","male",60,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",241,20-03-06,"North Carolina","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",257,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",258,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",259,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",261,20-03-06,"California","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",264,20-03-06,"New Jersey","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",266,20-03-06,"California",NA,NA,NA,NA,"1",0,20-02-11,20-02-21,NA,NA,NA,NA,NA
+"USA",267,20-03-06,"California",NA,NA,NA,NA,"1",0,20-02-11,20-02-21,NA,NA,NA,NA,NA
+"USA",268,20-03-06,"California",NA,NA,NA,NA,"1",0,20-02-11,20-02-21,NA,NA,NA,NA,NA
+"USA",277,20-03-06,"Minnesota","female",NA,20-02-25,20-03-03,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",279,20-03-06,"Colorado","male",45,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",280,20-03-06,"Colorado","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",281,20-03-06,"Nebraska","female",36,20-02-22,20-03-05,"1",0,20-02-18,20-02-27,NA,NA,NA,NA,NA
+"USA",282,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",283,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",284,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",285,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",286,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",287,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",288,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",289,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",290,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",291,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",292,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",293,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",294,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",295,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",296,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",297,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",298,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",299,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",300,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",301,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",302,20-03-06,NA,NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",311,20-03-06,"Oklahoma","male",55,20-02-29,NA,"1",0,NA,20-02-23,NA,NA,NA,NA,NA
+"USA",319,20-03-06,"California","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",322,20-03-06,"South Carolina","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",323,20-03-06,"Illinois","female",55,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",324,20-03-06,"Texas","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",325,20-03-06,"Texas","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",326,20-03-06,"Hawaii",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",328,20-03-06,"Colorado","female",45,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",329,20-03-06,"Colorado","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",330,20-03-06,"Colorado","female",55,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",334,20-03-06,"Florida","female",77,NA,NA,"1",0,NA,NA,NA,NA,20-03-06,NA,NA
+"USA",337,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",342,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",344,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",345,20-03-06,"California",NA,NA,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",346,20-03-07,"Georgia",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",348,20-03-07,"Florida","male",77,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",381,20-03-07,"Oregon",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",382,20-03-07,"Oregon",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",383,20-03-07,"Oregon",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",389,20-03-07,"California",NA,NA,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",410,20-03-07,"Florida","female",54,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",412,20-03-07,"California",NA,NA,NA,NA,"1",0,NA,20-02-21,NA,NA,NA,NA,NA
+"USA",446,20-03-07,"Florida","female",61,NA,NA,"1",0,20-02-04,20-02-18,NA,NA,NA,NA,NA
+"USA",447,20-03-07,"Virginia",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",448,20-03-07,"Florida","female",66,NA,NA,"1",0,20-02-04,20-02-18,NA,NA,NA,NA,NA
+"USA",449,20-03-07,"Missouri","female",25,20-03-04,20-03-06,"1",0,NA,20-03-02,NA,NA,NA,NA,NA
+"USA",452,20-03-07,"Georgia",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",453,20-03-07,"New York","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",455,20-03-07,"Florida","female",81,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",456,20-03-07,"California",NA,NA,NA,NA,"1",0,NA,20-03-06,NA,NA,NA,NA,NA
+"USA",461,20-03-07,"New Hampshire","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",463,20-03-08,"district of columbia","male",55,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",464,20-03-08,"Virginia",NA,85,20-02-28,20-03-05,"1",0,20-02-04,20-02-18,NA,NA,NA,NA,NA
+"USA",478,20-03-08,"New York",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",480,20-03-08,"Texas","male",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",481,20-03-08,"Texas","male",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",482,20-03-08,"Texas","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",532,20-03-08,"Pennsylvania",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",533,20-03-08,"Pennsylvania",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",550,20-03-08,"Maryland","female",85,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",553,20-03-08,"Maryland","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",556,20-03-08,"South Carolina","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",563,20-03-08,"Iowa",NA,NA,NA,NA,"1",0,NA,20-03-03,NA,NA,NA,NA,NA
+"USA",564,20-03-08,"Iowa",NA,NA,NA,NA,"1",0,NA,20-03-03,NA,NA,NA,NA,NA
+"USA",565,20-03-08,"Iowa",NA,NA,NA,NA,"1",0,NA,20-03-03,NA,NA,NA,NA,NA
+"USA",567,20-03-08,"Minnesota",NA,55,20-03-02,20-03-07,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",635,20-03-09,"Ohio","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",636,20-03-09,"Ohio","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",641,20-03-09,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",643,20-03-09,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",685,20-03-09,"Illinois","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",696,20-03-09,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",697,20-03-09,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",698,20-03-09,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",699,20-03-09,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",723,20-03-09,"Florida","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",724,20-03-09,"Virginia","female",NA,20-03-05,20-03-06,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",725,20-03-09,"Virginia","male",NA,NA,20-03-06,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",726,20-03-09,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",727,20-03-09,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",747,20-03-09,"Virginia",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",754,20-03-09,"California","female",55,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",755,20-03-09,"Colorado","female",35,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",763,20-03-10,"Utah",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",777,20-03-10,"Maryland",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",778,20-03-10,"Maryland",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",784,20-03-10,"Oklahoma","female",25,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",987,20-03-10,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",992,20-03-10,"Maryland","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",996,20-03-10,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",997,20-03-10,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",998,20-03-10,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",999,20-03-10,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1000,20-03-10,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1013,20-03-10,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1014,20-03-10,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1016,20-03-10,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1020,20-03-10,"Texas","female",25,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1024,20-03-10,"Michigan","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1043,20-03-10,"Florida","male",68,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1044,20-03-10,"Florida","male",73,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1045,20-03-10,"Florida","female",68,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1046,20-03-10,"Florida","female",64,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1047,20-03-10,"Florida","male",67,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1048,20-03-10,"Florida","male",54,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1049,20-03-10,"Florida","male",46,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1077,20-03-11,"New Mexico","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1078,20-03-11,"New Mexico","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1098,20-03-11,"Minnesota",NA,55,20-03-05,20-03-10,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1099,20-03-11,"Colorado","male",55,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1101,20-03-11,"Colorado","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1112,20-03-11,"California","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1114,20-03-11,"Minnesota",NA,35,20-03-06,20-03-10,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1126,20-03-11,"Colorado","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1127,20-03-11,"Colorado","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1136,20-03-11,"Colorado","male",45,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1137,20-03-11,"California","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1141,20-03-11,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1178,20-03-11,"Colorado","female",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1179,20-03-11,"Colorado","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1180,20-03-11,"Colorado","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1181,20-03-11,"Colorado","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1182,20-03-11,"Colorado","male",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1183,20-03-11,"Colorado","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1184,20-03-11,"Utah","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1269,20-03-11,"Wisconsin",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1270,20-03-11,"Wisconsin",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1275,20-03-11,"Florida","male",56,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1287,20-03-11,"Indiana",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1290,20-03-11,"Maryland","male",25,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1307,20-03-11,"Georgia",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1322,20-03-11,"New York","male",NA,NA,NA,"1",0,NA,20-03-10,NA,NA,NA,NA,NA
+"USA",1323,20-03-11,"Virginia",NA,20,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1327,20-03-11,"California",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1338,20-03-12,"Florida","male",61,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1350,20-03-12,"North Carolina","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1351,20-03-12,"North Carolina","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1385,20-03-12,"Connecticut","female",NA,NA,NA,"1",0,NA,20-03-11,NA,NA,NA,NA,NA
+"USA",1395,20-03-12,"New Hampshire","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1412,20-03-12,"Florida","male",68,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1413,20-03-12,"New Mexico","female",45,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1433,20-03-12,"Arkansas","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1434,20-03-12,"Arkansas","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1549,20-03-12,"California","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1620,20-03-12,"Minnesota",NA,65,20-03-06,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1656,20-03-12,"Missouri",NA,23,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1657,20-03-12,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1658,20-03-12,"Iowa",NA,NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1705,20-03-12,"Michigan","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1706,20-03-12,"Michigan","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1707,20-03-12,"Michigan","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1708,20-03-12,"Michigan","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1711,20-03-12,"Michigan","female",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1712,20-03-12,"California","female",75,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1716,20-03-12,"Michigan","male",NA,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1720,20-03-12,"New Mexico","female",55,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1722,20-03-12,"Florida","female",24,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1724,20-03-12,"Florida","female",49,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1727,20-03-12,"Florida","male",70,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1739,20-03-12,"Texas","male",65,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1741,20-03-12,"Florida","male",73,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1742,20-03-12,"Florida","male",74,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1745,20-03-12,"Florida","female",20,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1747,20-03-12,"Florida","female",25,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1748,20-03-12,"Florida","male",36,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1763,20-03-12,"Florida","male",42,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"USA",1765,20-03-12,"New Jersey","male",74,NA,NA,"1",0,NA,NA,NA,NA,NA,NA,NA
+"China",NA,NA,"Hubei","male",32,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,NA
+"China",NA,NA,"Hubei","female",49,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"chest discomfort, cough, fever"
+"China",NA,NA,"Hubei","male",66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"cough, fatigue, fever, headache"
+"China",NA,NA,"Hubei","male",89,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"dyspnea"
+"China",NA,NA,"Hubei","male",61,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,NA
+"China",NA,NA,"Hubei","male",82,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cold chills, muscular soreness"
+"China",NA,NA,"Hubei","male",66,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"dry cough"
+"China",NA,NA,"Hubei","male",81,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"fever"
+"China",NA,NA,"Hubei","female",80,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever, grasp, dyspnea"
+"China",NA,NA,"Hubei","male",53,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"chest distress, cough, fever"
+"China",NA,NA,"Hubei","female",70,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"fever"
+"China",NA,NA,"Hubei","male",70,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever"
+"China",NA,NA,"Hubei","male",72,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever"
+"China",NA,NA,"Hubei","male",79,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever, gasp"
+"China",NA,NA,"Hubei","male",55,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever"
+"China",NA,NA,"Hubei","male",87,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"diarrhea, fever"
+"China",NA,NA,"Hubei","female",66,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"chest distress, fever"
+"China",NA,NA,"Hubei","male",58,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"chest distress, cough, fever, gasp"
+"China",NA,NA,"Hubei","male",78,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever"
+"China",NA,NA,"Hubei","male",65,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever, sensation of chill"
+"China",NA,NA,"Hubei","male",67,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"dizziness, fever"
+"China",NA,NA,"Hubei","female",82,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"chest distress, chest pain, fever, weak, dyspnea"
+"China",NA,NA,"Hubei","female",85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"China",NA,NA,"Hubei","female",69,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"cough, fever, muscular soreness"
+"China",NA,NA,"Hubei","female",70,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"fever"
+"China",NA,NA,"Hubei","male",81,NA,NA,NA,NA,NA,NA,"No","yes",NA,NA,"fever"
+"China",NA,NA,"Hubei","female",65,NA,NA,NA,NA,NA,NA,"Yes","no",NA,NA,"primary myelofibrosis"

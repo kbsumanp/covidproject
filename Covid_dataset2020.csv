@@ -1,0 +1,644 @@
+unique_id,country,case_in_country,reporting_date,sub_country,gender,age,symptom_onset,visit_date_hosp,intl_traveler,dom_traveler,exposure_startdate,exposure_enddate,visiting_Wuhan,lives_in_Wuhan,death,recovered,symptom
+1,China,,01/27/20,Hubei,female,28,01/07/20,01/10/20,,,NA,NA,0,1,0,1,"feaver, cough, difficult in breathing"
+2,China,,01/27/20,Hubei,female,51,NA,01/11/20,,,NA,NA,0,1,0,1,"feaver, cough, difficult in breathing"
+3,China,,01/27/20,Shandong,male,37,NA,01/17/20,,,NA,NA,0,1,0,1,fever
+4,Japan,1,01/15/20,Kanagawa,male,35,01/03/20,01/06/20,W,,NA,01/06/20,1,0,0,15-Jan-20,fever
+5,Japan,5,01/28/20,Aichi Prefecture,male,45,01/22/20,01/26/20,,,NA,01/20/20,0,1,0,0,fever
+6,Japan,6,01/28/20,Nara Prefecture,male,65,01/14/20,01/17/20,,,01/08/20,01/16/20,0,0,0,0,"cough, chills, joint pain"
+7,Japan,7,01/28/20,Hokkaido,female,45,01/26/20,01/27/20,,,NA,01/21/20,1,1,0,0,"fever, cough"
+8,Japan,8,01/29/20,Osaka Prefecture,female,45,01/20/20,01/20/20,,,01/12/20,01/17/20,0,0,0,0,"fever, cough"
+9,Japan,9,01/30/20,Tokyo,male,55,01/29/20,NA,,,NA,01/29/20,0,1,0,0,"throat pain, fever"
+10,Japan,10,01/30/20,Mie,male,55,01/25/20,01/27/20,,,12/24/19,01/13/20,1,0,0,0,fever
+11,Japan,11,01/30/20,Japan,female,35,01/24/20,01/24/20,,,01/19/20,01/20/20,1,0,0,0,"fever, cough"
+12,Japan,12,01/30/20,Kyoto,female,25,01/23/20,01/28/20,,,01/17/20,01/18/20,1,0,0,0,fever
+13,Japan,15,02/01/20,Japan,male,45,01/26/20,01/30/20,,,NA,01/31/20,1,0,0,0,"fever, cough"
+14,Japan,17,02/04/20,Chiba Prefecture,female,35,01/30/20,01/31/20,,,NA,NA,0,1,0,0,"fever, runny nose"
+15,Japan,18,02/04/20,Chiba Prefecture,female,55,01/31/20,01/31/20,,,01/19/20,01/19/20,1,0,0,0,"fever, cough"
+16,Japan,19,02/04/20,Japan,male,55,01/25/20,01/26/20,,,NA,01/22/20,0,1,0,0,fever
+17,Japan,21,02/05/20,Kyoto,male,25,01/24/20,01/27/20,,,NA,NA,0,0,0,0,fever
+18,Japan,24,02/10/20,Japan,male,45,02/08/20,02/10/20,,,NA,01/30/20,1,0,0,0,fever
+19,Japan,25,02/10/20,Japan,male,55,02/07/20,02/07/20,,,NA,01/30/20,0,1,0,0,"fever, cough"
+20,Japan,27,02/13/20,Kanagawa,female,85,01/22/20,01/28/20,,,NA,NA,0,0,02/13/20,0,fatigue
+21,Japan,28,02/13/20,Tokyo,male,75,01/29/20,01/29/20,,,NA,NA,0,0,0,0,fever
+22,Japan,29,02/13/20,Wakayama Prefecture,male,55,01/31/20,02/08/20,,,NA,NA,0,0,0,0,"fever, abdominal pain, diarrhea"
+23,Japan,30,02/13/20,Chiba Prefecture,male,25,02/02/20,02/10/20,,,NA,NA,0,0,0,0,"fever, cough"
+24,Japan,31,02/14/20,Japan,male,75,02/01/20,02/06/20,,,NA,NA,0,0,02/28/20,0,"cold, fever, pneumonia"
+25,Japan,32,02/14/20,Okinawa Prefecture,female,65,02/05/20,02/12/20,,,NA,NA,0,0,0,0,"cough, joint pain"
+26,Japan,33,02/14/20,Tokyo,female,55,02/04/20,02/07/20,,,NA,NA,0,0,0,0,"vomiting, diarrhea, fever, cough"
+27,Japan,34,02/14/20,Tokyo,male,75,01/20/20,01/21/20,,,NA,NA,0,0,0,0,"fever, loss of appetite"
+28,Japan,35,02/14/20,Aichi Prefecture,male,65,02/03/20,02/08/20,,,NA,NA,0,0,0,0,fever
+29,Japan,36,02/14/20,Hokkaido,male,55,01/31/20,2//2020,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+30,Japan,37,02/14/20,Kanagawa,male,35,02/11/20,02/10/20,,,NA,NA,0,0,0,0,fever
+31,Japan,38,02/15/20,Wakayama Prefecture,male,55,02/04/20,02/06/20,,,NA,NA,0,0,0,0,fever
+32,Japan,39,02/15/20,Wakayama Prefecture,female,55,02/07/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+33,Japan,40,02/15/20,Wakayama Prefecture,male,65,NA,NA,,,NA,NA,0,0,0,0,"fever, headache"
+34,Japan,44,02/16/20,Tokyo,male,65,NA,NA,,,NA,NA,0,0,0,0,"fatigue, difficulty breathing"
+35,Japan,45,02/16/20,Tokyo,male,35,02/03/20,02/04/20,,,NA,NA,0,0,0,0,"fever, malaise"
+36,Japan,46,02/16/20,Aichi Prefecture,male,65,02/15/20,02/15/20,,,NA,NA,0,0,0,0,fever
+37,Japan,47,02/16/20,Nara Prefecture,male,65,02/06/20,02/07/20,,,NA,NA,0,0,0,0,"fever, malaise"
+38,Japan,48,02/17/20,Aichi Prefecture,male,65,02/17/20,02/17/20,,,NA,NA,0,0,0,0,"fever, malaise"
+39,Japan,51,02/17/20,Wakayama Prefecture,male,55,02/03/20,02/04/20,,,NA,NA,0,0,0,0,fever
+40,Japan,52,02/17/20,Wakayama Prefecture,male,55,02/07/20,02/07/20,,,NA,NA,0,0,0,0,fever
+41,Japan,53,02/17/20,Wakayama Prefecture,female,45,02/14/20,02/14/20,,,NA,NA,0,0,0,0,"fever, vomiting, diarrhea"
+42,Japan,54,02/18/20,Wakayama Prefecture,male,65,02/16/20,02/11/20,,,NA,NA,0,0,0,0,fever
+43,Japan,55,02/18/20,Wakayama Prefecture,male,35,02/16/20,02/17/20,,,NA,NA,0,0,0,0,fever
+44,Japan,56,02/18/20,Tokyo,male,85,02/09/20,NA,,,NA,NA,0,0,02/26/20,0,"fever, pneumonia"
+45,Japan,57,02/18/20,Japan,male,25,02/07/20,NA,,,NA,NA,0,0,0,0,fever
+46,Japan,58,02/18/20,Japan,male,55,02/05/20,NA,,,NA,NA,0,0,0,0,"fever, cough, sputum, malaise"
+47,Japan,61,02/19/20,Sagamihara,male,75,02/14/20,NA,,,02/10/20,02/18/20,0,0,0,0,"fever, cough"
+48,Japan,62,02/19/20,Kanagawa,male,65,02/03/20,02/05/20,,,NA,NA,0,0,0,0,fever
+49,Japan,63,02/19/20,Sapporo,male,45,02/08/20,02/13/20,,,NA,NA,0,0,0,0,"fatigue, muscle pain, joint pain, fever"
+50,Japan,64,02/19/20,Hokkaido,male,65,02/03/20,02/07/20,,,NA,NA,0,0,0,0,"fever, sore throat"
+51,Japan,65,02/19/20,Okinawa Prefecture,male,65,02/11/20,02/18/20,,,NA,NA,0,0,0,0,"fever, breathlessness, malaise"
+52,Japan,66,02/19/20,Tokyo,male,75,02/04/20,NA,,,NA,NA,0,0,0,0,"cough, malaise, shortness of breath"
+53,Japan,67,02/19/20,Tokyo,female,75,02/04/20,NA,,,NA,NA,0,0,0,0,"cough, malaise, shortness of breath"
+54,Japan,68,02/19/20,Tokyo,female,75,02/03/20,NA,,,NA,NA,0,0,0,0,"cough, sputum, dyspnea"
+55,Japan,69,02/19/20,Nagoya City,female,55,02/17/20,02/17/20,,,NA,NA,0,0,0,0,"fever, malaise"
+56,Japan,71,02/20/20,Fukuoka Prefecture,male,65,02/13/20,02/13/20,,,NA,NA,0,0,0,0,"fever, pneumonia"
+57,Japan,73,02/20/20,Chiba Prefecture,female,75,02/14/20,02/15/20,,,NA,NA,0,0,0,0,fever
+58,Japan,74,02/20/20,Okinawa Prefecture,male,85,02/06/20,02/17/20,,,NA,NA,0,0,0,0,"fever, malaise, diarrhea, cough"
+59,Japan,77,02/20/20,Nagoya City,male,85,02/19/20,02/19/20,,,NA,NA,0,0,0,0,fever
+60,Japan,78,02/20/20,Sagamihara,male,85,02/14/20,NA,,,01/11/20,NA,0,0,0,0,fever
+61,Japan,80,02/21/20,Hokkaido,male,5,02/15/20,02/17/20,,,NA,NA,0,0,0,12/30/1899,fever
+62,Japan,82,02/21/20,Hokkaido,female,45,02/16/20,02/18/20,,,NA,NA,0,0,0,12/30/1899,fever
+63,Japan,83,02/21/20,Ishikawa,male,55,02/16/20,02/16/20,,,NA,NA,0,0,0,12/30/1899,fever
+64,Japan,85,02/21/20,Tokyo,female,55,02/10/20,NA,,,NA,NA,0,0,0,12/30/1899,"fever, cough, sputum"
+65,Japan,86,02/21/20,Tokyo,female,75,02/01/20,NA,,,NA,NA,0,0,0,12/30/1899,"fever, cough, malaise"
+66,Japan,87,02/21/20,Tokyo,female,55,02/04/20,NA,,,NA,NA,0,0,0,12/30/1899,fatigue
+67,Japan,88,02/21/20,Chiba Prefecture,male,65,02/06/20,02/09/20,,,NA,NA,0,0,0,12/30/1899,"fatigue, loss of appetite"
+68,Japan,90,02/21/20,Nagoya City,male,75,02/19/20,02/21/20,,,NA,NA,0,0,0,12/30/1899,"fever, cough"
+69,Japan,91,02/21/20,Nagoya City,female,25,02/20/20,02/21/20,,,NA,NA,0,0,0,12/30/1899,"fever, cough, breathlessness"
+70,Japan,92,02/22/20,Kumamoto City,female,25,02/17/20,02/18/20,,,NA,NA,0,0,0,0,"cough, fever, headache, nausea, vomiting, diarrhea"
+71,Japan,93,02/22/20,Kumamoto City,male,55,02/20/20,02/21/20,,,NA,NA,0,0,0,0,"cough, fever"
+72,Japan,94,02/22/20,Kumamoto Prefecture,male,65,02/15/20,02/19/20,,,NA,NA,0,0,0,0,"fatigue, cold, fever, vomiting"
+73,Japan,95,02/22/20,Wakayama Prefecture,male,45,02/02/20,02/02/20,,,NA,NA,0,0,0,0,"fever, fatigue, cough, diarrhea"
+74,Japan,96,02/22/20,Chiba Prefecture,female,65,02/12/20,02/12/20,,,NA,NA,0,0,0,0,nausea
+75,Japan,97,02/22/20,Japan,female,55,02/16/20,02/19/20,,,NA,NA,0,0,0,0,"fatigue, joint pain, fever"
+76,Japan,98,02/22/20,Hokkaido,female,75,02/06/20,02/10/20,,,NA,NA,0,0,0,0,"cough, sputum"
+77,Japan,99,02/22/20,Hokkaido,male,85,02/03/20,02/03/20,,,NA,NA,0,0,02/27/20,0,difficulty breathing
+78,Japan,100,02/22/20,Hokkaido,male,75,02/16/20,02/20/20,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+79,Japan,102,02/22/20,Hokkaido,male,65,02/10/20,02/10/20,,,NA,NA,0,0,0,0,fever
+80,Japan,103,02/22/20,Hokkaido,female,55,02/15/20,02/16/20,,,NA,NA,0,0,0,0,"fatigue, malaise, headache"
+81,Japan,104,02/22/20,Hokkaido,female,15,02/06/20,02/07/20,,,NA,NA,0,0,0,0,"fever, sore throat, malaise"
+82,Japan,105,02/22/20,Hokkaido,female,55,02/13/20,02/15/20,,,NA,NA,0,0,0,0,"sore throat, cough, fever"
+83,Japan,106,02/22/20,Tokyo,male,65,02/12/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+84,Japan,107,02/22/20,Nagoya City,female,65,02/19/20,02/21/20,,,NA,NA,0,0,0,0,"fever, nasal discharge, headache"
+85,Japan,108,02/22/20,Nagoya City,female,46,02/20/20,02/21/20,,,NA,NA,0,0,0,0,fever
+86,Japan,109,02/22/20,Nagoya City,male,65,02/20/20,02/21/20,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+87,Japan,110,02/22/20,Nagoya City,male,65,02/20/20,02/21/20,,,NA,NA,0,0,0,0,fever
+88,Japan,111,02/22/20,Japan,female,65,02/21/20,02/22/20,,,NA,NA,0,0,0,0,fever
+89,Japan,112,02/22/20,Sagamihara,male,55,02/16/20,02/17/20,,,NA,NA,0,0,0,0,fever
+90,Japan,113,02/22/20,Hokkaido,male,55,02/17/20,02/18/20,,,NA,NA,0,0,0,0,"fever, difficulty breathing"
+91,Japan,115,02/23/20,Nagoya City,female,75,02/22/20,02/22/20,,,NA,NA,0,0,0,0,fever
+92,Japan,116,02/23/20,Nagoya City,male,75,02/21/20,02/22/20,,,NA,NA,0,0,0,0,"fever, cough"
+93,Japan,117,02/23/20,Chiba Prefecture,male,45,02/12/20,02/18/20,,,NA,NA,0,0,0,0,"joint pain, muscle pain, cough, malaise"
+94,Japan,127,02/23/20,Sagamihara,male,55,02/16/20,02/17/20,,,NA,NA,0,0,0,0,"fever, headache"
+95,Japan,128,02/24/20,Ishikawa,male,65,02/16/20,02/17/20,,,NA,NA,0,0,0,0,"fever, sore throat"
+96,Japan,129,02/24/20,Sapporo,female,75,02/21/20,02/22/20,,,NA,NA,0,0,0,0,"fever, cough"
+97,Japan,130,02/24/20,Sapporo,male,55,02/14/20,02/17/20,,,NA,NA,0,0,0,0,chills
+98,Japan,131,02/24/20,Hokkaido,female,25,02/18/20,02/23/20,,,NA,NA,0,0,0,0,fever
+99,Japan,132,02/24/20,Hokkaido,male,55,02/17/20,02/20/20,,,NA,NA,0,0,0,0,cough
+100,Japan,133,02/24/20,Kanagawa,male,55,02/14/20,02/17/20,,,NA,NA,0,0,0,0,"fever, respiratory distress"
+101,Japan,134,02/24/20,Tokyo,male,45,02/13/20,NA,,,NA,NA,0,0,0,0,"fever, malaise"
+102,Japan,135,02/24/20,Tokyo,male,55,02/19/20,NA,,,NA,NA,0,0,0,0,"fever, malaise"
+103,Japan,136,02/24/20,Tokyo,male,35,02/18/20,NA,,,NA,NA,0,0,0,0,"fever, sore throat"
+104,Japan,137,02/24/20,Sagamihara,female,55,02/20/20,NA,,,NA,NA,0,0,0,0,"mild cough, sputum, throat discomfort"
+105,Japan,138,02/24/20,Sagamihara,female,25,02/21/20,NA,,,NA,NA,0,0,0,0,"cough, sneeze"
+106,Japan,139,02/24/20,Sagamihara,female,25,02/19/20,02/19/20,,,NA,NA,0,0,0,0,"fever, chills, joint pain, heavy head"
+107,Japan,140,02/25/20,Nagano Prefecture,male,65,02/20/20,02/21/20,,,NA,NA,0,0,0,0,"fatigue, fever"
+108,Japan,141,02/25/20,Kumamoto City,male,55,02/20/20,02/24/20,,,NA,NA,0,0,0,0,sore throat
+109,Japan,142,02/25/20,Kumamoto City,female,65,02/25/20,02/25/20,,,NA,NA,0,0,0,0,fever
+110,Japan,143,02/25/20,Sapporo,female,65,02/17/20,02/17/20,,,NA,NA,0,0,0,0,fever
+111,Japan,145,02/25/20,Nagoya City,female,75,02/20/20,02/21/20,,,NA,NA,0,0,0,0,fever
+112,Japan,146,02/25/20,Nagoya City,female,75,02/23/20,02/23/20,,,NA,NA,0,0,0,0,"fever, cough"
+113,Japan,147,02/25/20,Nagoya City,female,45,02/23/20,02/23/20,,,NA,NA,0,0,0,0,"fever, runny nose"
+114,Japan,148,02/26/20,Chiba Prefecture,male,55,02/22/20,02/25/20,,,02/12/20,02/18/20,0,0,0,0,fever
+115,Japan,149,02/26/20,Chiba Prefecture,male,65,02/22/20,02/24/20,,,NA,02/20/20,0,0,0,0,fever
+116,Japan,150,02/26/20,Chiba Prefecture,male,75,02/12/20,NA,,,NA,02/21/20,0,0,0,0,fever
+117,Japan,151,02/26/20,Hokkaido,male,25,02/17/20,02/18/20,,,NA,NA,0,0,0,0,"headache, fever, malaise"
+118,Japan,152,02/26/20,Hokkaido,female,25,02/19/20,02/24/20,,,NA,NA,0,0,0,0,"sore throat, fever"
+119,Japan,153,02/26/20,Hokkaido,male,75,02/23/20,NA,,,NA,NA,0,0,0,0,fever
+120,Japan,154,02/26/20,Hokkaido,NA,NA,02/16/20,02/17/20,,,NA,NA,0,0,02/25/20,0,cough
+121,Japan,155,02/26/20,Hokkaido,female,75,02/17/20,02/20/20,,,NA,NA,0,0,0,0,"fever, malaise"
+122,Japan,156,02/26/20,Hokkaido,female,75,02/16/20,02/16/20,,,NA,NA,0,0,0,0,"fever, cough"
+123,Japan,157,02/26/20,Hokkaido,male,45,02/24/20,02/24/20,,,NA,NA,0,0,0,0,"fever, cough"
+124,Japan,158,02/26/20,Kanagawa,male,65,NA,02/26/20,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+125,Japan,159,02/26/20,Osaka Prefecture,female,45,02/06/20,02/06/20,,,NA,NA,0,0,0,0,"throat discomfort, cough, chest pain"
+126,Japan,160,02/26/20,Tokyo,male,85,02/22/20,NA,,,NA,NA,0,0,0,0,"fever, cough, sputum, dyspnea"
+127,Japan,161,02/26/20,Tokyo,male,75,02/12/20,NA,,,NA,NA,0,0,0,0,"fever, cough, sputum, dyspnea"
+128,Japan,162,02/26/20,Tokyo,male,75,02/14/20,NA,,,NA,NA,0,0,0,0,"fever, cough, sputum"
+129,Japan,163,02/26/20,Nagoya City,male,55,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, thirst"
+130,Japan,164,02/26/20,Nagoya City,male,65,02/25/20,02/25/20,,,NA,NA,0,0,0,0,fever
+131,Japan,165,02/26/20,Nagoya City,male,75,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough, runny nose"
+132,Japan,166,02/26/20,Nagoya City,male,75,02/23/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+133,Japan,167,02/26/20,Nagoya City,female,75,02/24/20,02/24/20,,,NA,NA,0,0,0,0,"fever, cough, sore throat, runny nose"
+134,Japan,168,02/27/20,Gifu Prefecture,male,55,02/14/20,02/15/20,,,NA,NA,0,0,0,0,"malaise, fever, headache"
+135,Japan,169,02/27/20,Gifu Prefecture,female,55,02/23/20,02/26/20,,,02/20/20,02/24/20,0,0,0,0,"throat pain, chills"
+136,Japan,170,02/27/20,Ishikawa,male,55,02/16/20,02/17/20,,,NA,NA,0,0,0,0,fever
+137,Japan,171,02/27/20,Kanagawa,male,55,02/20/20,02/20/20,,,NA,NA,0,0,0,0,"fever, headache, malaise"
+138,Japan,172,02/27/20,Tokyo,female,60,02/10/20,NA,,,NA,NA,0,0,0,0,"fever, cough, sputum"
+139,Japan,173,02/27/20,Osaka Prefecture,male,45,02/20/20,02/26/20,,,NA,NA,0,0,0,0,"fever, cough, headache"
+140,Japan,175,02/27/20,Hokkaido,male,55,02/25/20,02/25/20,,,NA,NA,0,0,0,0,"cough, malaise"
+141,Japan,176,02/27/20,Hokkaido,male,35,02/17/20,02/18/20,,,NA,NA,0,0,0,0,fever
+142,Japan,177,02/27/20,Hokkaido,male,75,02/16/20,02/20/20,,,NA,NA,0,0,0,0,"fatigue, fever"
+143,Japan,178,02/27/20,Hokkaido,male,65,02/18/20,02/22/20,,,NA,NA,0,0,0,0,"sore throat, fever, joint pain, dyspnea"
+144,Japan,179,02/27/20,Hokkaido,male,45,02/15/20,02/17/20,,,NA,NA,0,0,0,0,"vomiting, cough, fever, sore throat"
+145,Japan,180,02/27/20,Hokkaido,male,45,02/21/20,02/21/20,,,NA,NA,0,0,0,0,fever
+146,Japan,181,02/27/20,Hokkaido,male,5,02/21/20,02/24/20,,,NA,NA,0,0,0,0,"fever, cough"
+147,Japan,182,02/27/20,Hokkaido,male,35,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, headache, malaise, joint pain"
+148,Japan,183,02/27/20,Hokkaido,male,5,02/21/20,02/22/20,,,NA,NA,0,0,0,0,"fever, cough"
+149,Japan,184,02/27/20,Hokkaido,male,85,02/24/20,02/24/20,,,NA,NA,0,0,0,0,"fever, cough"
+150,Japan,185,02/27/20,Hokkaido,male,35,02/20/20,02/23/20,,,NA,NA,0,0,0,0,"cough, fever, joint pain"
+151,Japan,186,02/27/20,Hokkaido,male,85,02/22/20,02/24/20,,,NA,NA,0,0,0,0,"cough, fever"
+152,Japan,187,02/27/20,Hokkaido,male,65,02/22/20,02/22/20,,,NA,NA,0,0,0,0,"fever, malaise, sore throat"
+153,Japan,188,02/27/20,Hokkaido,female,45,02/24/20,NA,,,NA,NA,0,0,0,0,"cough, sore throat"
+154,Japan,189,02/27/20,Nagoya City,female,65,02/26/20,02/26/20,,,NA,NA,0,0,0,0,fever
+155,Japan,190,02/27/20,Nagoya City,male,65,02/26/20,02/26/20,,,NA,NA,0,0,0,0,"fever, cough, headache"
+156,Japan,192,02/28/20,Sagamihara City,female,45,02/18/20,02/25/20,,,NA,NA,0,0,0,0,"chills, headache, fatigue"
+157,Japan,193,02/28/20,Sagamihara City,male,25,02/20/20,NA,,,NA,NA,0,0,0,0,fever
+158,Japan,195,02/28/20,Hokkaido,female,85,02/21/20,02/24/20,,,NA,NA,0,0,0,0,"cough, sputum"
+159,Japan,196,02/28/20,Hokkaido,male,5,02/18/20,02/18/20,,,NA,NA,0,0,0,0,fever
+160,Japan,197,02/28/20,Hokkaido,male,85,02/25/20,02/26/20,,,NA,NA,0,0,0,0,"fever, fatigue, difficulty walking"
+161,Japan,198,02/28/20,Hokkaido,female,65,02/19/20,02/26/20,,,NA,NA,0,0,0,0,cough
+162,Japan,199,02/28/20,Hokkaido,male,65,02/21/20,02/25/20,,,NA,NA,0,0,0,0,fever
+163,Japan,200,02/28/20,Hokkaido,male,65,02/18/20,02/22/20,,,NA,NA,0,0,0,0,"chills, fever, malaise"
+164,Japan,201,02/28/20,Hokkaido,female,65,02/19/20,02/24/20,,,NA,NA,0,0,0,0,"sputum, cough, fever, cough, difficulty breathing"
+165,Japan,202,02/28/20,Hokkaido,male,45,02/12/20,02/18/20,,,NA,NA,0,0,0,0,fever
+166,Japan,203,02/28/20,Hokkaido,male,75,02/20/20,02/24/20,,,NA,NA,0,0,0,0,fever
+167,Japan,205,02/28/20,Sapporo,male,65,02/20/20,02/20/20,,,NA,NA,0,0,0,0,"fever, cough"
+168,Japan,206,02/28/20,Sapporo,male,65,02/18/20,02/21/20,,,NA,NA,0,0,0,0,fever
+169,Japan,207,02/28/20,Nagoya City,male,65,02/27/20,02/27/20,,,NA,NA,0,0,0,0,fever
+170,Japan,208,02/28/20,Osaka Prefecture,female,45,02/25/20,02/19/20,,,NA,NA,0,0,0,0,"headache, fever"
+171,Japan,209,02/29/20,Kochi Prefecture,female,35,02/13/20,02/14/20,,,NA,NA,0,0,0,0,"sore throat, fever, cough, runny nose"
+172,Japan,210,02/29/20,Niigata City,male,65,02/25/20,02/26/20,,,NA,NA,0,0,0,0,"fever, cough, malaise, loss of appetite"
+173,Japan,211,02/29/20,Sendai City,male,75,NA,02/28/20,,,NA,NA,0,0,0,0,"fever, sore throat"
+174,Japan,212,02/29/20,Tokyo,female,25,02/24/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+175,Japan,213,02/29/20,Hokkaido,female,95,02/20/20,02/20/20,,,NA,NA,0,0,0,0,"cough, nasal discharge, fever, difficulty breathing"
+176,Japan,214,02/29/20,Hokkaido,female,65,02/21/20,02/26/20,,,NA,NA,0,0,0,0,"cough, general malaise, joint muscle pain"
+177,Japan,215,02/29/20,Hokkaido,female,35,02/19/20,02/19/20,,,NA,NA,0,0,0,0,"fever, headache, malaise"
+178,Japan,217,02/29/20,Nagoya City,female,75,02/23/20,02/23/20,,,NA,NA,0,0,0,0,"fever, cough, vomiting, hospitalization"
+179,Japan,218,03/01/20,Kitakyushu City,male,65,02/19/20,02/25/20,,,NA,NA,0,0,0,0,"cough, fever"
+180,Japan,219,03/01/20,Kanagawa,female,75,02/25/20,02/25/20,,,NA,NA,0,0,0,0,"fever, pneumonia"
+181,Japan,220,03/01/20,Kanagawa,female,55,02/14/20,02/14/20,,,NA,NA,0,0,0,0,"headache, fever, cough"
+182,Japan,221,03/01/20,Funabashi City,male,25,02/22/20,03/01/20,,,NA,NA,0,0,0,0,"fever, diarrhea, nausea, difficulty breathing, coughing, loss of appetite"
+183,Japan,222,03/01/20,Hokkaido,female,25,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough, malaise"
+184,Japan,223,03/01/20,Hokkaido,male,45,02/20/20,02/21/20,,,NA,NA,0,0,0,0,fever
+185,Japan,224,03/01/20,Tokyo,female,55,02/12/20,NA,,,NA,NA,0,0,0,0,cough
+186,Japan,225,03/01/20,Tokyo,male,75,02/26/20,NA,,,NA,NA,0,0,0,0,"fever, difficulty breathing"
+187,Japan,226,03/01/20,Sagamihara City,male,55,02/19/20,02/25/20,,,NA,NA,0,0,0,0,"malaise, fever, joint pain"
+188,Japan,227,03/01/20,Sagamihara City,female,55,02/19/20,02/25/20,,,NA,NA,0,0,0,0,"malaise, fever, joint pain, sputum, vomiting, diarrhea"
+189,Japan,228,03/01/20,Kochi Prefecture,female,65,02/25/20,02/29/20,,,NA,NA,0,0,0,0,"cough, malaise, fatigue"
+190,Japan,229,03/01/20,Nagoya City,female,85,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"pneumonia, fever"
+191,Japan,230,03/01/20,Nagoya City,female,55,02/26/20,02/27/20,,,NA,NA,0,0,0,0,"pneumonia, fever"
+192,Japan,231,03/01/20,Nagoya City,female,65,02/27/20,02/29/20,,,NA,NA,0,0,0,0,"fever, whole body pain, pneumonia"
+193,Japan,232,03/01/20,Nishimiya City,male,45,02/25/20,02/26/20,,,NA,NA,0,0,0,0,fever
+194,Japan,233,03/02/20,Kochi Prefecture,female,35,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough"
+195,Japan,234,03/02/20,Niigata City,male,45,02/25/20,02/25/20,,,NA,NA,0,0,0,0,fever
+196,Japan,235,03/02/20,Hokkaido,male,65,02/19/20,02/24/20,,,NA,NA,0,0,0,0,"fever, difficulty breathing"
+197,Japan,236,03/02/20,Hokkaido,male,65,02/22/20,02/24/20,,,NA,NA,0,0,0,0,"fever, fatigue, diarrhea"
+198,Japan,237,03/02/20,Hokkaido,male,55,02/21/20,02/22/20,,,NA,NA,0,0,0,0,"fever, runny nose, sore throat, malaise, joint pain"
+199,Japan,238,03/02/20,Asakihawa City,female,45,02/24/20,02/26/20,,,NA,NA,0,0,0,0,"fatigue, fever, joint pain, pneumonia"
+200,Japan,239,03/02/20,Sapporo,male,55,02/15/20,02/19/20,,,NA,NA,0,0,0,0,"fatigue, fever"
+201,Japan,240,03/02/20,Osaka Prefecture,male,55,02/22/20,02/25/20,,,NA,NA,0,0,0,0,fever
+202,Japan,241,03/02/20,Osaka Prefecture,female,45,02/24/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough, throat discomfort"
+203,Japan,242,03/03/20,Oita City,female,35,02/23/20,02/24/20,,,NA,NA,0,0,0,0,"fever, headache, malaise"
+204,Japan,243,03/03/20,Kobe City,male,45,02/27/20,02/27/20,,,NA,NA,0,0,0,0,"fever, malaise, pneumonia"
+205,Japan,244,03/03/20,Sapporo,female,35,02/29/20,03/01/20,,,NA,NA,0,0,0,0,"fever, headache, cough"
+206,Japan,245,03/03/20,Sapporo,female,65,02/27/20,02/27/20,,,NA,NA,0,0,0,0,"difficulty breathing, fever"
+207,Japan,246,03/03/20,Niigata City,female,65,02/22/20,NA,,,NA,NA,0,0,0,0,"chills, cough, fever"
+208,Japan,247,03/03/20,Niigata City,female,55,02/23/20,NA,,,NA,NA,0,0,0,0,fever
+209,Japan,248,03/03/20,Niigata City,male,45,02/24/20,NA,,,NA,NA,0,0,0,0,fever
+210,Japan,249,03/03/20,Kyoto,female,55,02/21/20,02/24/20,,,NA,NA,0,0,0,0,fever
+211,Japan,250,03/03/20,Tokyo,female,55,02/23/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+212,Japan,251,03/03/20,Osaka Prefecture,male,55,02/23/20,02/27/20,,,NA,NA,0,0,0,0,"fever, pneumonia"
+213,Japan,252,03/03/20,Osaka Prefecture,female,45,02/26/20,03/02/20,,,NA,NA,0,0,0,0,"back pain, fever, runny nose"
+214,Japan,253,03/03/20,Aichi Prefecture,female,75,02/24/20,02/28/20,,,NA,NA,0,0,0,0,"fever, cold"
+215,Japan,254,03/03/20,Aichi Prefecture,male,85,02/28/20,03/02/20,,,NA,NA,0,0,0,0,fever
+216,Japan,255,03/03/20,Aichi Prefecture,female,25,02/28/20,02/28/20,,,NA,NA,0,0,0,0,"fever, cough, sore throat, pneumonia"
+217,Japan,256,03/03/20,Aichi Prefecture,male,75,02/26/20,02/27/20,,,NA,NA,0,0,0,0,"fever, cough, runny nose"
+218,Malaysia,5,01/29/20,Langkawi,female,4,NA,01/26/20,,,NA,01/20/20,0,0,0,4-Feb-20,"fever, cough, flu"
+219,Malaysia,10,02/04/20,Malaysia,male,63,01/23/20,NA,,,NA,01/18/20,0,1,0,9-Feb-20,fever
+220,Malaysia,13,02/06/20,Malaysia,female,40,02/01/20,NA,,,NA,NA,0,0,0,0,"fever, sore throat, cough"
+221,Malaysia,14,02/06/20,Malaysia,female,37,NA,02/01/20,,,NA,01/25/20,0,1,0,0,mild fever
+222,Malaysia,15,02/07/20,Johor,female,59,01/26/20,NA,,,NA,01/17/20,0,1,0,15-Feb-20,fever
+223,Malaysia,18,02/10/20,Malaysia,male,31,02/03/20,NA,,,NA,02/01/20,0,0,0,19-Feb-20,cough
+224,Malaysia,20,02/16/20,Malaysia,male,27,02/13/20,02/13/20,,,NA,NA,0,0,0,20-Feb-20,fever
+225,Malaysia,21,02/16/20,Malaysia,female,32,02/13/20,NA,,,01/22/20,01/30/20,0,0,0,20-Feb-20,sore throat
+226,Singapore,2,01/24/20,Singapore,female,53,01/21/20,01/22/20,,,NA,01/21/20,0,1,0,7-Feb-20,"fever, cough, chills"
+227,Singapore,15,01/31/20,Singapore,female,47,01/30/20,01/30/20,,,NA,01/30/20,1,0,0,17-Feb-20,fever
+228,Singapore,17,02/01/20,Singapore,female,47,01/30/20,01/30/20,,,NA,01/30/20,1,0,0,11-Feb-20,fever
+229,Singapore,19,02/04/20,Singapore,female,28,01/29/20,02/03/20,,,01/23/20,01/23/20,0,0,0,22-Feb-20,"fever, sore throat"
+230,Singapore,25,02/05/20,Singapore,male,NA,01/24/20,02/03/20,,,NA,NA,0,0,0,12-Feb-20,fever
+231,Singapore,29,02/06/20,Singapore,male,41,01/28/20,01/29/20,,,NA,NA,0,0,0,12-Feb-20,fever
+232,South Korea,1,01/20/20,South Korea,female,35,NA,01/19/20,,,NA,01/19/20,0,1,0,6-Feb-20,"high fever, chills, muscle pain"
+233,South Korea,2,01/24/20,South Korea,male,55,01/10/20,01/19/20,,,NA,01/22/20,1,0,0,4-Feb-20,"fever, sore throat"
+234,South Korea,3,01/25/20,South Korea,male,54,01/22/20,01/25/20,,,NA,01/20/20,0,1,0,0,"fever, chills, muscle cramps"
+235,South Korea,4,01/27/20,South Korea,male,55,01/21/20,01/21/20,,,NA,01/20/20,1,0,0,0,"high fever, aching muscles"
+236,South Korea,7,01/31/20,South Korea,male,28,01/26/20,NA,,,NA,01/23/20,1,0,0,0,cough
+237,South Korea,10,01/31/20,South Korea,female,52,01/29/20,NA,,,NA,NA,0,0,0,19-Feb-20,headache
+238,South Korea,11,01/31/20,South Korea,male,25,01/30/20,NA,,,NA,NA,0,0,0,0,sore body
+239,South Korea,16,02/04/20,South Korea,female,42,01/25/20,NA,,,01/15/20,01/19/20,0,0,0,19-Feb-20,chills
+240,South Korea,24,02/07/20,South Korea,male,28,NA,NA,,,NA,NA,1,0,0,27-Feb-20,sore throat
+241,South Korea,25,02/09/20,South Korea,female,73,NA,NA,,,NA,01/31/20,0,0,0,22-Feb-20,"fever, cough, sore throat"
+242,South Korea,29,02/16/20,South Korea,male,82,NA,02/15/20,,,NA,NA,0,0,0,0,chest discomfort
+243,South Korea,30,02/17/20,South Korea,female,68,02/06/20,NA,,,NA,NA,0,0,0,0,"cough, chill, muscle pain"
+244,South Korea,31,02/18/20,South Korea,female,61,02/07/20,02/17/20,,,NA,NA,0,0,0,0,fever
+245,Taiwan,1,01/21/20,Taiwan,female,55,01/11/20,01/20/20,,,NA,01/20/20,1,0,0,0,"fever, cough, shortness of breath"
+246,Taiwan,2,01/24/20,Taiwan,female,55,01/23/20,01/23/20,,,NA,01/21/20,1,0,0,0,fever
+247,Taiwan,3,01/24/20,Taiwan,male,55,01/23/20,01/23/20,,,NA,01/21/20,1,0,0,0,flu symptoms
+248,Taiwan,4,01/27/20,Taiwan,female,50,01/22/20,01/25/20,,,01/13/20,01/15/20,1,0,0,0,cough
+249,Taiwan,5,01/27/20,Taiwan,female,50,01/25/20,01/25/20,,,NA,01/20/20,1,0,0,0,"fever, muscle aches"
+250,Taiwan,6,01/28/20,Taiwan,female,70,01/25/20,01/25/20,,,NA,01/22/20,0,1,0,0,fever
+251,Taiwan,7,01/28/20,Taiwan,female,70,01/25/20,01/25/20,,,NA,01/22/20,0,1,0,0,fever
+252,Taiwan,8,01/28/20,Taiwan,male,55,01/26/20,NA,,,NA,NA,0,0,0,0,cough
+253,Taiwan,9,01/30/20,Taiwan,male,NA,01/12/20,NA,,,NA,NA,1,0,0,0,"cough, runny nose"
+254,Taiwan,12,02/06/20,Taiwan,male,45,02/03/20,02/04/20,,,NA,01/17/20,1,0,0,0,"fever, cough, headache"
+255,Taiwan,13,02/06/20,Taiwan,female,25,02/01/20,02/04/20,,,NA,01/21/20,0,1,0,0,"cough, chest pain"
+256,Taiwan,14,02/06/20,Taiwan,male,55,01/26/20,02/01/20,,,NA,NA,0,0,0,0,"fever, cough"
+257,Taiwan,15,02/06/20,Taiwan,female,55,01/28/20,02/03/20,,,NA,NA,0,0,0,0,cough
+258,Taiwan,16,02/06/20,Taiwan,female,45,02/01/20,02/03/20,,,NA,NA,0,0,0,0,"fever, chills, sore throat, runny nose, shortness of breath"
+259,Taiwan,19,02/16/20,Taiwan,male,65,01/27/20,02/03/20,,,NA,NA,0,0,1,0,"cough, shortness of breath"
+260,Taiwan,22,02/17/20,Taiwan,male,35,01/28/20,NA,,,01/27/20,01/27/20,0,0,0,0,"fever, cough"
+261,Taiwan,24,02/20/20,Taiwan,female,60,01/22/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+262,Taiwan,25,02/21/20,Taiwan,female,45,01/28/20,01/30/20,,,NA,NA,0,0,0,0,"fever, cough"
+263,Taiwan,26,02/21/20,Taiwan,female,25,NA,02/03/20,,,NA,NA,0,0,0,0,reflux
+264,Taiwan,28,02/23/20,Taiwan,male,55,NA,NA,,,NA,NA,0,0,0,0,throat discomfort
+265,Taiwan,29,02/24/20,Taiwan,male,45,01/29/20,NA,,,NA,NA,0,0,0,0,physical discomfort
+266,Taiwan,32,02/26/20,Taiwan,female,35,NA,02/24/20,,,02/11/20,02/16/20,0,0,0,0,throat discomfort
+267,Taiwan,33,02/28/20,Taiwan,male,35,02/25/20,NA,,,02/17/20,02/22/20,0,0,0,0,"cough, itchy throat"
+268,Thailand,1,01/13/20,Thailand,female,61,01/05/20,01/08/20,,,NA,01/08/20,0,1,0,0,"fever, chills, sore throat, headache"
+269,Thailand,3,01/22/20,Thailand,male,68,01/19/20,01/19/20,,,NA,NA,1,0,0,1,fever
+270,Thailand,4,01/22/20,Thailand,female,73,01/13/20,01/13/20,,,NA,01/13/20,1,0,0,6-Feb-20,fever
+271,Thailand,5,01/22/20,Thailand,male,NA,01/19/20,01/19/20,,,NA,NA,1,0,0,1,fever
+272,Thailand,6,01/24/20,Thailand,female,33,01/23/20,01/23/20,,,NA,01/21/20,1,0,0,0,"fever, coughing, muscle aches"
+273,Thailand,38,02/26/20,Thailand,male,NA,NA,02/23/20,,,NA,NA,0,0,0,0,cough
+274,Thailand,41,02/28/20,Thailand,male,25,NA,02/25/20,,,NA,NA,0,0,0,0,"fever, cough"
+275,USA,9,02/03/20,California,male,57,01/25/20,NA,1,0,01/18/20,01/24/20,1,0,0,0,"cough, fever"
+276,Vietnam,1,01/23/20,Ho Chi Minh City,male,66,01/17/20,01/17/20,,,NA,01/13/20,0,1,0,12-Feb-20,fever
+277,Vietnam,2,01/23/20,Ho Chi Minh City,male,28,01/20/20,NA,,,01/13/20,NA,0,0,0,4-Feb-20,fever
+278,Vietnam,10,02/04/20,Vinh Phuc,female,42,01/31/20,NA,,,01/22/20,01/28/20,0,0,0,20-Feb-20,fever
+279,Vietnam,14,02/09/20,Vinh Phuc,female,55,02/02/20,NA,,,01/28/20,01/28/20,0,0,0,18-Feb-20,"fever, headache, runny nose"
+280,Vietnam,16,02/13/20,Vinh Phuc,male,50,02/11/20,NA,,,NA,NA,0,0,0,0,tired
+281,Canada,1,01/26/20,Toronto,male,56,NA,01/23/20,,,NA,01/22/20,1,0,0,31-Jan-20,"fever, cough"
+282,Cambodia,1,01/27/20,Preah Sihanouk Province,male,60,01/25/20,NA,,,NA,01/23/20,0,1,0,0,"fever, runny nose"
+283,Sri Lanka,1,01/28/20,Sri Lanka,female,40,01/25/20,01/25/20,,,NA,01/19/20,0,1,0,19-Feb-20,fever
+284,Germany,1,01/28/20,Bavaria,male,33,01/24/20,NA,,,01/20/20,01/21/20,0,0,0,0,"sore throat, chills, myalgias, fever, cough"
+285,Germany,21,02/26/20,North Rhine-Westphalia,male,47,02/16/20,02/24/20,,,NA,NA,0,0,0,0,"fever, cough"
+286,Hong Kong,1,01/22/20,Hong Kong,male,39,01/21/20,01/22/20,,,NA,NA,0,1,0,0,fever
+287,Hong Kong,3,01/24/20,Hong Kong,female,62,01/20/20,01/23/20,,,NA,01/19/20,0,1,0,0,"fever, cough"
+288,Hong Kong,4,01/24/20,Hong Kong,female,62,01/23/20,01/23/20,,,NA,01/22/20,0,1,0,0,feve\
+289,Hong Kong,5,01/24/20,Hong Kong,male,63,01/23/20,01/23/20,,,NA,01/22/20,0,1,0,1,"fever, cough"
+290,Hong Kong,6,01/27/20,Hong Kong,male,47,01/20/20,01/21/20,,,NA,01/23/20,0,1,0,0,fever
+291,Hong Kong,7,01/27/20,Hong Kong,female,68,01/21/20,01/25/20,,,NA,01/25/20,1,0,0,0,fever
+292,Hong Kong,8,01/27/20,Hong Kong,male,64,01/25/20,01/25/20,,,NA,01/19/20,0,1,0,0,fever
+293,Hong Kong,11,01/30/20,Yau Ma Tei,female,37,01/28/20,01/30/20,,,01/22/20,01/28/20,0,0,0,0,cough
+294,Hong Kong,12,01/30/20,Tsing Yi,male,75,01/22/20,01/24/20,,,NA,NA,0,0,0,0,"cough, shortness of breath"
+295,Hong Kong,13,01/31/20,Kowloon,male,39,01/31/20,01/31/20,,,01/21/20,01/23/20,1,0,1,0,"myalgia, fever"
+296,Hong Kong,14,02/02/20,Hong Kong,male,80,01/19/20,01/30/20,,,01/10/20,01/10/20,0,0,0,0,fever
+297,Hong Kong,15,02/02/20,Kowloon,female,72,02/01/20,02/01/20,,,01/23/20,01/31/20,0,0,0,0,"fever, cough"
+298,Hong Kong,16,02/04/20,Kowloon,female,64,01/23/20,01/23/20,,,NA,NA,0,0,0,0,cough
+299,Hong Kong,17,02/04/20,Hong Kong,male,60,01/22/20,01/30/20,,,NA,NA,0,0,0,0,"fever, myalgia, shortness of breath"
+300,Hong Kong,18,02/04/20,Kowloon,male,25,01/28/20,01/29/20,,,NA,NA,0,0,0,15-Feb-20,"cough, runny nose, diarrhea"
+301,Hong Kong,19,02/05/20,Kwun Tong,female,56,02/04/20,02/04/20,,,NA,NA,0,0,0,0,fever
+302,Hong Kong,20,02/05/20,Kwun Tong,female,28,01/30/20,02/04/20,,,NA,NA,0,0,0,0,"cough, sore throat"
+303,Hong Kong,21,02/05/20,Kwai Chung,male,56,01/30/20,02/01/20,,,NA,NA,0,0,0,0,"fever, cough, sore throat"
+304,Hong Kong,22,02/06/20,Kwai Chung,female,55,02/01/20,02/02/20,,,NA,NA,0,0,0,0,"sore throat, fever, diarrhea"
+305,Hong Kong,23,02/06/20,Hong Kong,female,63,01/26/20,02/05/20,,,NA,NA,0,0,0,0,"cough, malaise"
+306,Hong Kong,24,02/06/20,Hong Kong,female,65,01/28/20,01/29/20,,,NA,NA,0,0,0,0,"fever, cough"
+307,Hong Kong,25,02/07/20,Zhuhai,male,58,02/04/20,02/06/20,,,NA,02/05/20,0,0,0,0,"fever, cough"
+308,Hong Kong,26,02/07/20,Fo Tan,male,42,02/03/20,02/03/20,,,01/22/20,02/02/20,0,0,0,0,"fever, cough"
+309,Hong Kong,27,02/09/20,Wan Chai,male,24,01/30/20,01/30/20,,,NA,NA,0,0,0,0,"fever, cough"
+310,Hong Kong,28,02/09/20,Ngau Chi Wan,male,70,01/30/20,02/01/20,,,NA,NA,0,0,0,0,"cough, chills, shortness of breath, diarrhea"
+311,Hong Kong,50,02/12/20,Hong Kong,male,51,02/03/20,02/10/20,,,NA,NA,0,0,0,0,fever
+312,Hong Kong,51,02/13/20,Hong Kong,male,43,01/29/20,01/31/20,,,01/30/20,01/30/20,0,0,0,0,"cough, diarrhea, vomiting"
+313,Hong Kong,52,02/13/20,Hong Kong,female,67,01/31/20,01/31/20,,,01/26/20,01/26/20,0,0,0,0,"cough, fever, chills"
+314,Hong Kong,53,02/13/20,Hong Kong,male,37,02/08/20,02/09/20,,,01/26/20,01/26/20,0,0,0,0,fever
+315,Hong Kong,55,02/14/20,Hong Kong,male,70,02/02/20,02/12/20,,,NA,NA,0,0,1,0,cough
+316,Hong Kong,57,02/16/20,Hong Kong,male,54,NA,02/07/20,,,NA,NA,0,0,0,0,fever
+317,Hong Kong,58,02/17/20,Hong Kong,male,69,02/08/20,02/08/20,,,NA,NA,0,0,0,0,"cough, shortness of breath"
+318,Hong Kong,59,02/17/20,Hong Kong,male,45,02/12/20,02/13/20,,,NA,NA,0,0,0,0,"fever, sore throat"
+319,Hong Kong,60,02/17/20,Hong Kong,female,46,02/08/20,02/10/20,,,NA,NA,0,0,0,0,"runny nose, cough"
+320,Hong Kong,61,02/18/20,Hong Kong,female,32,02/02/20,NA,,,NA,NA,0,0,0,0,"fever, cough"
+321,Hong Kong,85,02/25/20,Hong Kong,female,60,02/12/20,02/24/20,,,NA,NA,0,0,0,0,cough
+322,Hong Kong,86,02/26/20,Hong Kong,female,49,02/18/20,02/22/20,,,NA,NA,0,0,0,0,"cough, sputum, sore throat"
+323,Hong Kong,87,02/26/20,Hong Kong,female,21,02/12/20,02/25/20,,,01/25/20,02/22/20,0,0,0,0,fever
+324,Hong Kong,88,02/26/20,Hong Kong,male,16,02/17/20,02/25/20,,,01/25/20,02/22/20,0,0,0,0,runny nose
+325,Hong Kong,89,02/26/20,Hong Kong,male,80,02/25/20,02/25/20,,,NA,NA,0,0,0,0,"fever, cough"
+326,Hong Kong,91,02/26/20,Hong Kong,male,26,02/20/20,02/21/20,,,NA,NA,0,0,0,0,"fever, cough"
+327,Hong Kong,92,02/27/20,Hong Kong,female,70,02/13/20,02/13/20,,,NA,NA,0,0,0,0,cough with sputum
+328,Hong Kong,93,02/27/20,Hong Kong,female,89,02/25/20,02/26/20,,,NA,NA,0,0,0,0,cough
+329,Hong Kong,95,02/29/20,Hong Kong,female,46,02/29/20,NA,,,NA,NA,0,0,0,0,sore throat
+330,Hong Kong,96,03/01/20,Hong Kong,female,68,02/16/20,NA,,,01/25/20,02/21/20,0,0,0,0,"fever, cough"
+331,Hong Kong,98,03/02/20,Hong Kong,female,71,02/12/20,02/14/20,,,NA,NA,0,0,0,0,"cough, runny nose"
+332,Hong Kong,99,03/02/20,Hong Kong,female,76,02/28/20,NA,,,NA,NA,0,0,0,0,"fever, shortness of breath, cough, abdominal pain"
+333,Hong Kong,100,03/02/20,Hong Kong,male,79,02/28/20,02/29/20,,,NA,NA,0,0,0,0,"fever, cough"
+334,Italy,4,02/20/20,Lombardy,male,38,02/14/20,02/16/20,,,NA,NA,0,0,0,0,fever
+335,Phillipines,1,02/02/20,Manila,male,44,01/25/20,01/25/20,,,NA,01/21/20,0,1,02/01/20,0,"fever, cough, sore throat"
+336,Finland,1,01/29/20,Lapland,female,32,01/26/20,01/28/20,,,NA,01/22/20,0,1,0,0,fever
+337,Spain,11,02/26/20,Barcelona,male,22,NA,02/25/20,,,NA,NA,0,0,0,0,"sore throat, fever"
+338,Sweden,1,01/31/20,Jonkoping,female,25,01/27/20,NA,,,NA,01/24/20,1,0,0,0,cough
+339,USA,1,01/21/20,Washington,male,30,01/16/20,01/19/20,1,0,NA,01/15/20,1,0,0,02/20/20,
+340,USA,2,01/24/20,Illinois,female,60,01/16/20,01/16/20,1,0,NA,01/13/20,1,0,0,02/06/20,
+341,USA,3,01/26/20,California,male,55,NA,NA,1,0,NA,NA,1,0,0,0,
+342,USA,4,01/26/20,Arizona,male,NA,NA,NA,1,0,NA,NA,1,0,0,0,
+343,USA,5,01/26/20,California,male,NA,01/22/20,01/22/20,1,0,NA,NA,0,1,0,0,
+344,USA,7,01/31/20,California,male,NA,NA,NA,1,0,NA,01/24/20,1,0,0,0,
+345,USA,8,01/31/20,Massachusetts,male,23,01/29/20,NA,1,0,NA,01/29/20,1,0,0,0,
+346,USA,11,02/03/20,California,female,NA,NA,NA,1,0,NA,01/23/20,1,0,0,0,
+347,USA,13,02/10/20,California,female,NA,NA,NA,1,0,NA,02/05/20,1,0,0,0,
+348,USA,14,02/12/20,California,NA,NA,NA,NA,1,0,NA,02/07/20,1,0,0,0,
+349,USA,15,02/13/20,Texas,male,NA,NA,NA,1,0,NA,02/07/20,1,0,0,0,
+350,USA,16,02/18/20,California,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+351,USA,18,02/21/20,California,NA,NA,NA,NA,1,0,NA,02/02/20,0,0,0,0,
+352,USA,19,02/21/20,California,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+353,USA,20,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+354,USA,21,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+355,USA,22,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+356,USA,23,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+357,USA,24,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+358,USA,25,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+359,USA,26,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+360,USA,27,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+361,USA,28,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+362,USA,29,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+363,USA,30,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+364,USA,31,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+365,USA,32,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+366,USA,33,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+367,USA,34,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+368,USA,35,02/21/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+369,USA,36,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+370,USA,37,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+371,USA,38,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+372,USA,39,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+373,USA,40,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+374,USA,41,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+375,USA,42,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+376,USA,43,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+377,USA,44,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+378,USA,45,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+379,USA,46,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+380,USA,47,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+381,USA,48,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+382,USA,49,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+383,USA,50,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+384,USA,51,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+385,USA,52,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+386,USA,53,02/24/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+387,USA,54,02/25/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+388,USA,55,02/25/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+389,USA,56,02/25/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+390,USA,57,02/25/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+391,USA,58,02/26/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+392,USA,59,02/26/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+393,USA,61,02/28/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+394,USA,62,02/28/20,,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+395,USA,66,02/28/20,Washington,female,55,NA,NA,1,0,NA,NA,0,0,0,0,
+396,USA,72,03/01/20,Rhode Island,male,45,NA,NA,1,0,NA,NA,0,0,0,0,
+397,USA,78,03/01/20,California,female,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+398,USA,79,03/01/20,California,male,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+399,USA,80,03/01/20,New York,female,38,NA,NA,1,0,NA,NA,0,0,0,0,
+400,USA,87,03/01/20,Florida,female,29,NA,NA,1,0,NA,NA,0,0,0,0,
+401,USA,88,03/01/20,Rhode Island,female,15,NA,NA,1,0,NA,NA,0,0,0,0,
+402,USA,89,03/01/20,Texas,NA,NA,NA,NA,1,0,NA,NA,1,0,0,0,
+403,USA,91,03/01/20,USA,NA,NA,NA,NA,1,0,NA,02/13/20,0,0,0,0,
+404,USA,92,03/02/20,New Hampshire,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+405,USA,99,03/02/20,California,NA,NA,NA,NA,1,0,02/11/20,02/21/20,0,0,0,0,
+406,USA,102,03/02/20,Massachusetts,female,25,NA,NA,1,0,NA,NA,0,0,0,0,
+407,USA,103,03/02/20,Georgia,male,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+408,USA,124,03/03/20,California,NA,NA,NA,NA,1,0,NA,02/23/20,0,0,0,0,
+409,USA,125,03/03/20,California,male,65,NA,NA,1,0,NA,NA,0,0,0,0,
+410,USA,126,03/03/20,California,female,35,NA,NA,1,0,NA,NA,0,0,0,0,
+411,USA,129,03/03/20,California,NA,NA,NA,NA,1,0,02/11/20,02/21/20,0,0,0,0,
+412,USA,137,03/04/20,California,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+413,USA,138,03/04/20,California,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+414,USA,139,03/04/20,California,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+415,USA,140,03/04/20,Washington,NA,NA,NA,NA,1,0,NA,NA,0,0,0,0,
+416,USA,158,03/04/20,Texas,male,75,,,1,0,,,,,,,
+417,USA,166,03/05/20,Florida,male,71,,,1,0,,,,,,,
+418,USA,175,03/05/20,Illinois,male,21,03/03/20,03/05/20,1,0,,03/03/20,,,,,
+419,USA,207,03/05/20,California,female,,03/02/20,,1,0,,,,,,,
+420,USA,210,03/05/20,California,,,,,1,0,,,,,,,
+421,USA,211,03/05/20,California,,,,,1,0,,,,,,,
+422,USA,212,03/05/20,California,,,,,1,0,,,,,,,
+423,USA,213,03/05/20,California,,,,,1,0,,,,,,,
+424,USA,214,03/05/20,Texas,female,,,,1,0,,,,,,,
+425,USA,215,03/05/20,Texas,male,,,,1,0,,,,,,,
+426,USA,227,03/05/20,Colorado,male,35,03/03/20,,1,0,,02/29/20,,,,,
+427,USA,228,03/05/20,Massachusetts,female,65,,,1,0,,,,,,,
+428,USA,229,03/05/20,Maryland,female,75,,,1,0,,02/20/20,,,,,
+429,USA,230,03/05/20,Maryland,male,75,,,1,0,,02/20/20,,,,,
+430,USA,231,03/05/20,Maryland,female,55,,,1,0,,02/20/20,,,,,
+431,USA,232,03/05/20,Colorado,female,,,,1,0,,,,,,,
+432,USA,238,03/06/20,Pennsylvania,male,,,,1,0,,,,,,,
+433,USA,239,03/06/20,Texas,male,60,,,1,0,,,,,,,
+434,USA,240,03/06/20,Texas,male,60,,,1,0,,,,,,,
+435,USA,241,03/06/20,North Carolina,male,,,,1,0,,,,,,,
+436,USA,257,03/06/20,California,,,,,1,0,,,,,,,
+437,USA,258,03/06/20,California,,,,,1,0,,,,,,,
+438,USA,259,03/06/20,California,,,,,1,0,,,,,,,
+439,USA,261,03/06/20,California,female,,,,1,0,,,,,,,
+440,USA,264,03/06/20,New Jersey,male,65,,,1,0,,,,,,,
+441,USA,266,03/06/20,California,,,,,1,0,02/11/20,02/21/20,,,,,
+442,USA,267,03/06/20,California,,,,,1,0,02/11/20,02/21/20,,,,,
+443,USA,268,03/06/20,California,,,,,1,0,02/11/20,02/21/20,,,,,
+444,USA,277,03/06/20,Minnesota,female,,02/25/20,03/03/20,1,0,,,,,,,
+445,USA,279,03/06/20,Colorado,male,45,,,1,0,,,,,,,
+446,USA,280,03/06/20,Colorado,female,75,,,1,0,,,,,,,
+447,USA,281,03/06/20,Nebraska,female,36,02/22/20,03/05/20,1,0,02/18/20,02/27/20,,,,,
+448,USA,282,03/06/20,,,,,,1,0,,,,,,,
+449,USA,283,03/06/20,,,,,,1,0,,,,,,,
+450,USA,284,03/06/20,,,,,,1,0,,,,,,,
+451,USA,285,03/06/20,,,,,,1,0,,,,,,,
+452,USA,286,03/06/20,,,,,,1,0,,,,,,,
+453,USA,287,03/06/20,,,,,,1,0,,,,,,,
+454,USA,288,03/06/20,,,,,,1,0,,,,,,,
+455,USA,289,03/06/20,,,,,,1,0,,,,,,,
+456,USA,290,03/06/20,,,,,,1,0,,,,,,,
+457,USA,291,03/06/20,,,,,,1,0,,,,,,,
+458,USA,292,03/06/20,,,,,,1,0,,,,,,,
+459,USA,293,03/06/20,,,,,,1,0,,,,,,,
+460,USA,294,03/06/20,,,,,,1,0,,,,,,,
+461,USA,295,03/06/20,,,,,,1,0,,,,,,,
+462,USA,296,03/06/20,,,,,,1,0,,,,,,,
+463,USA,297,03/06/20,,,,,,1,0,,,,,,,
+464,USA,298,03/06/20,,,,,,1,0,,,,,,,
+465,USA,299,03/06/20,,,,,,1,0,,,,,,,
+466,USA,300,03/06/20,,,,,,1,0,,,,,,,
+467,USA,301,03/06/20,,,,,,1,0,,,,,,,
+468,USA,302,03/06/20,,,,,,1,0,,,,,,,
+469,USA,311,03/06/20,Oklahoma,male,55,02/29/20,,1,0,,02/23/20,,,,,
+470,USA,319,03/06/20,California,male,,,,1,0,,,,,,,
+471,USA,322,03/06/20,South Carolina,female,,,,1,0,,,,,,,
+472,USA,323,03/06/20,Illinois,female,55,,,1,0,,02/21/20,,,,,
+473,USA,324,03/06/20,Texas,female,65,,,1,0,,,,,,,
+474,USA,325,03/06/20,Texas,female,65,,,1,0,,,,,,,
+475,USA,326,03/06/20,Hawaii,,,,,1,0,,,,,,,
+476,USA,328,03/06/20,Colorado,female,45,,,1,0,,,,,,,
+477,USA,329,03/06/20,Colorado,female,75,,,1,0,,,,,,,
+478,USA,330,03/06/20,Colorado,female,55,,,1,0,,,,,,,
+479,USA,334,03/06/20,Florida,female,77,,,1,0,,,,,03/06/20,,
+480,USA,337,03/06/20,California,,,,,1,0,,,,,,,
+481,USA,342,03/06/20,California,,,,,1,0,,02/21/20,,,,,
+482,USA,344,03/06/20,California,,,,,1,0,,02/21/20,,,,,
+483,USA,345,03/06/20,California,,,,,1,0,,02/21/20,,,,,
+484,USA,346,03/07/20,Georgia,,,,,1,0,,,,,,,
+485,USA,348,03/07/20,Florida,male,77,,,1,0,,,,,,,
+486,USA,381,03/07/20,Oregon,,,,,1,0,,,,,,,
+487,USA,382,03/07/20,Oregon,,,,,1,0,,,,,,,
+488,USA,383,03/07/20,Oregon,,,,,1,0,,,,,,,
+489,USA,389,03/07/20,California,,,,,1,0,,02/21/20,,,,,
+490,USA,410,03/07/20,Florida,female,54,,,1,0,,,,,,,
+491,USA,412,03/07/20,California,,,,,1,0,,02/21/20,,,,,
+492,USA,446,03/07/20,Florida,female,61,,,1,0,02/04/20,02/18/20,,,,,
+493,USA,447,03/07/20,Virginia,,,,,1,0,,,,,,,
+494,USA,448,03/07/20,Florida,female,66,,,1,0,02/04/20,02/18/20,,,,,
+495,USA,449,03/07/20,Missouri,female,25,03/04/20,03/06/20,1,0,,03/02/20,,,,,
+496,USA,452,03/07/20,Georgia,,,,,1,0,,,,,,,
+497,USA,453,03/07/20,New York,male,,,,1,0,,,,,,,
+498,USA,455,03/07/20,Florida,female,81,,,1,0,,,,,,,
+499,USA,456,03/07/20,California,,,,,1,0,,03/06/20,,,,,
+500,USA,461,03/07/20,New Hampshire,male,,,,1,0,,,,,,,
+501,USA,463,03/08/20,district of columbia,male,55,,,1,0,,,,,,,
+502,USA,464,03/08/20,Virginia,,85,02/28/20,03/05/20,1,0,02/04/20,02/18/20,,,,,
+503,USA,478,03/08/20,New York,,,,,1,0,,,,,,,
+504,USA,480,03/08/20,Texas,male,75,,,1,0,,,,,,,
+505,USA,481,03/08/20,Texas,male,75,,,1,0,,,,,,,
+506,USA,482,03/08/20,Texas,female,65,,,1,0,,,,,,,
+507,USA,532,03/08/20,Pennsylvania,,,,,1,0,,,,,,,
+508,USA,533,03/08/20,Pennsylvania,,,,,1,0,,,,,,,
+509,USA,550,03/08/20,Maryland,female,85,,,1,0,,,,,,,
+510,USA,553,03/08/20,Maryland,male,65,,,1,0,,,,,,,
+511,USA,556,03/08/20,South Carolina,male,,,,1,0,,,,,,,
+512,USA,563,03/08/20,Iowa,,,,,1,0,,03/03/20,,,,,
+513,USA,564,03/08/20,Iowa,,,,,1,0,,03/03/20,,,,,
+514,USA,565,03/08/20,Iowa,,,,,1,0,,03/03/20,,,,,
+515,USA,567,03/08/20,Minnesota,,55,03/02/20,03/07/20,1,0,,,,,,,
+516,USA,635,03/09/20,Ohio,female,,,,1,0,,,,,,,
+517,USA,636,03/09/20,Ohio,male,,,,1,0,,,,,,,
+518,USA,641,03/09/20,California,,,,,1,0,,,,,,,
+519,USA,643,03/09/20,California,,,,,1,0,,,,,,,
+520,USA,685,03/09/20,Illinois,female,75,,,1,0,,,,,,,
+521,USA,696,03/09/20,Iowa,,,,,1,0,,,,,,,
+522,USA,697,03/09/20,Iowa,,,,,1,0,,,,,,,
+523,USA,698,03/09/20,Iowa,,,,,1,0,,,,,,,
+524,USA,699,03/09/20,Iowa,,,,,1,0,,,,,,,
+525,USA,723,03/09/20,Florida,female,65,,,1,0,,,,,,,
+526,USA,724,03/09/20,Virginia,female,,03/05/20,03/06/20,1,0,,,,,,,
+527,USA,725,03/09/20,Virginia,male,,,03/06/20,1,0,,,,,,,
+528,USA,726,03/09/20,California,,,,,1,0,,,,,,,
+529,USA,727,03/09/20,California,,,,,1,0,,,,,,,
+530,USA,747,03/09/20,Virginia,,,,,1,0,,,,,,,
+531,USA,754,03/09/20,California,female,55,,,1,0,,,,,,,
+532,USA,755,03/09/20,Colorado,female,35,,,1,0,,,,,,,
+533,USA,763,03/10/20,Utah,,,,,1,0,,,,,,,
+534,USA,777,03/10/20,Maryland,,,,,1,0,,,,,,,
+535,USA,778,03/10/20,Maryland,,,,,1,0,,,,,,,
+536,USA,784,03/10/20,Oklahoma,female,25,,,1,0,,,,,,,
+537,USA,987,03/10/20,California,,,,,1,0,,,,,,,
+538,USA,992,03/10/20,Maryland,female,65,,,1,0,,,,,,,
+539,USA,996,03/10/20,Iowa,,,,,1,0,,,,,,,
+540,USA,997,03/10/20,Iowa,,,,,1,0,,,,,,,
+541,USA,998,03/10/20,Iowa,,,,,1,0,,,,,,,
+542,USA,999,03/10/20,Iowa,,,,,1,0,,,,,,,
+543,USA,1000,03/10/20,Iowa,,,,,1,0,,,,,,,
+544,USA,1013,03/10/20,California,,,,,1,0,,,,,,,
+545,USA,1014,03/10/20,California,,,,,1,0,,,,,,,
+546,USA,1016,03/10/20,California,,,,,1,0,,,,,,,
+547,USA,1020,03/10/20,Texas,female,25,,,1,0,,,,,,,
+548,USA,1024,03/10/20,Michigan,female,,,,1,0,,,,,,,
+549,USA,1043,03/10/20,Florida,male,68,,,1,0,,,,,,,
+550,USA,1044,03/10/20,Florida,male,73,,,1,0,,,,,,,
+551,USA,1045,03/10/20,Florida,female,68,,,1,0,,,,,,,
+552,USA,1046,03/10/20,Florida,female,64,,,1,0,,,,,,,
+553,USA,1047,03/10/20,Florida,male,67,,,1,0,,,,,,,
+554,USA,1048,03/10/20,Florida,male,54,,,1,0,,,,,,,
+555,USA,1049,03/10/20,Florida,male,46,,,1,0,,,,,,,
+556,USA,1077,03/11/20,New Mexico,male,65,,,1,0,,,,,,,
+557,USA,1078,03/11/20,New Mexico,female,65,,,1,0,,,,,,,
+558,USA,1098,03/11/20,Minnesota,,55,03/05/20,03/10/20,1,0,,,,,,,
+559,USA,1099,03/11/20,Colorado,male,55,,,1,0,,,,,,,
+560,USA,1101,03/11/20,Colorado,female,65,,,1,0,,,,,,,
+561,USA,1112,03/11/20,California,male,,,,1,0,,,,,,,
+562,USA,1114,03/11/20,Minnesota,,35,03/06/20,03/10/20,1,0,,,,,,,
+563,USA,1126,03/11/20,Colorado,female,75,,,1,0,,,,,,,
+564,USA,1127,03/11/20,Colorado,male,,,,1,0,,,,,,,
+565,USA,1136,03/11/20,Colorado,male,45,,,1,0,,,,,,,
+566,USA,1137,03/11/20,California,female,,,,1,0,,,,,,,
+567,USA,1141,03/11/20,California,,,,,1,0,,,,,,,
+568,USA,1178,03/11/20,Colorado,female,65,,,1,0,,,,,,,
+569,USA,1179,03/11/20,Colorado,male,65,,,1,0,,,,,,,
+570,USA,1180,03/11/20,Colorado,male,65,,,1,0,,,,,,,
+571,USA,1181,03/11/20,Colorado,male,65,,,1,0,,,,,,,
+572,USA,1182,03/11/20,Colorado,male,75,,,1,0,,,,,,,
+573,USA,1183,03/11/20,Colorado,male,65,,,1,0,,,,,,,
+574,USA,1184,03/11/20,Utah,male,,,,1,0,,,,,,,
+575,USA,1269,03/11/20,Wisconsin,,,,,1,0,,,,,,,
+576,USA,1270,03/11/20,Wisconsin,,,,,1,0,,,,,,,
+577,USA,1275,03/11/20,Florida,male,56,,,1,0,,,,,,,
+578,USA,1287,03/11/20,Indiana,,,,,1,0,,,,,,,
+579,USA,1290,03/11/20,Maryland,male,25,,,1,0,,,,,,,
+580,USA,1307,03/11/20,Georgia,,,,,1,0,,,,,,,
+581,USA,1322,03/11/20,New York,male,,,,1,0,,03/10/20,,,,,
+582,USA,1323,03/11/20,Virginia,,20,,,1,0,,,,,,,
+583,USA,1327,03/11/20,California,,,,,1,0,,,,,,,
+584,USA,1338,03/12/20,Florida,male,61,,,1,0,,,,,,,
+585,USA,1350,03/12/20,North Carolina,male,,,,1,0,,,,,,,
+586,USA,1351,03/12/20,North Carolina,male,,,,1,0,,,,,,,
+587,USA,1385,03/12/20,Connecticut,female,,,,1,0,,03/11/20,,,,,
+588,USA,1395,03/12/20,New Hampshire,male,,,,1,0,,,,,,,
+589,USA,1412,03/12/20,Florida,male,68,,,1,0,,,,,,,
+590,USA,1413,03/12/20,New Mexico,female,45,,,1,0,,,,,,,
+591,USA,1433,03/12/20,Arkansas,female,,,,1,0,,,,,,,
+592,USA,1434,03/12/20,Arkansas,male,,,,1,0,,,,,,,
+593,USA,1549,03/12/20,California,female,75,,,1,0,,,,,,,
+594,USA,1620,03/12/20,Minnesota,,65,03/06/20,,1,0,,,,,,,
+595,USA,1656,03/12/20,Missouri,,23,,,1,0,,,,,,,
+596,USA,1657,03/12/20,Iowa,,,,,1,0,,,,,,,
+597,USA,1658,03/12/20,Iowa,,,,,1,0,,,,,,,
+598,USA,1705,03/12/20,Michigan,female,,,,1,0,,,,,,,
+599,USA,1706,03/12/20,Michigan,female,,,,1,0,,,,,,,
+600,USA,1707,03/12/20,Michigan,female,,,,1,0,,,,,,,
+601,USA,1708,03/12/20,Michigan,male,,,,1,0,,,,,,,
+602,USA,1711,03/12/20,Michigan,female,,,,1,0,,,,,,,
+603,USA,1712,03/12/20,California,female,75,,,1,0,,,,,,,
+604,USA,1716,03/12/20,Michigan,male,,,,1,0,,,,,,,
+605,USA,1720,03/12/20,New Mexico,female,55,,,1,0,,,,,,,
+606,USA,1722,03/12/20,Florida,female,24,,,1,0,,,,,,,
+607,USA,1724,03/12/20,Florida,female,49,,,1,0,,,,,,,
+608,USA,1727,03/12/20,Florida,male,70,,,1,0,,,,,,,
+609,USA,1739,03/12/20,Texas,male,65,,,1,0,,,,,,,
+610,USA,1741,03/12/20,Florida,male,73,,,1,0,,,,,,,
+611,USA,1742,03/12/20,Florida,male,74,,,1,0,,,,,,,
+612,USA,1745,03/12/20,Florida,female,20,,,1,0,,,,,,,
+613,USA,1747,03/12/20,Florida,female,25,,,1,0,,,,,,,
+614,USA,1748,03/12/20,Florida,male,36,,,1,0,,,,,,,
+615,USA,1763,03/12/20,Florida,male,42,,,1,0,,,,,,,
+616,USA,1765,03/12/20,New Jersey,male,74,,,1,0,,,,,,,
+617,China,,27.12.2019,Hubei,male,32,NA,NA,,,,,No,yes,16.01.2020,,NA
+618,China,,27.12.2019,Hubei,female,49,23.12.2019,NA,,,,,No,yes,16.01.2020,,"chest discomfort, cough, fever"
+619,China,,16.01.2020,Hubei,male,66,10.01.2020,NA,,,,,NA,NA,20.01.2020,,"cough, fatigue, fever, headache"
+620,China,,18.01.2020,Hubei,male,89,13.01.2020,18.01.2020,,,,,No,yes,19.01.2020,,dyspnea
+621,China,,27.12.2019,Hubei,male,61,20.12.2019,NA,,,,,No,yes,09.01.2020,,NA
+622,China,,14.01.2020,Hubei,male,82,09.01.2020,NA,,,,,No,yes,21.01.2020,,"cold chills, muscular soreness"
+623,China,,31.12.2019,Hubei,male,66,22.12.2019,NA,,,,,No,yes,21.01.2020,,dry cough
+624,China,,18.01.2020,Hubei,male,81,15.01.2020,NA,,,,,No,yes,22.01.2020,,fever
+625,China,,18.01.2020,Hubei,female,80,11.01.2020,20.01.2020,,,,,No,yes,22.01.2020,,"cough, fever, grasp, dyspnea"
+626,China,,13.01.2020,Hubei,male,53,01.01.2020 - 31.01.2020,NA,,,,,No,yes,21.01.2020,,"chest distress, cough, fever"
+627,China,,13.01.2020,Hubei,female,70,NA,NA,,,,,No,yes,21.01.2020,,fever
+628,China,,19.01.2020,Hubei,male,70,15.01.2020,NA,,,,,No,yes,23.01.2020,,"cough, fever"
+629,China,,18.01.2020,Hubei,male,72,11.01.2020,NA,,,,,No,yes,23.01.2020,,"cough, fever"
+630,China,,17.01.2020,Hubei,male,79,11.01.2020,NA,,,,,No,yes,24.01.2020,,"cough, fever, gasp"
+631,China,,19.01.2020,Hubei,male,55,08.01.2020,NA,,,,,No,yes,24.01.2020,,"cough, fever"
+632,China,,19.01.2020,Hubei,male,87,12.01.2020,NA,,,,,No,yes,23.01.2020,,"diarrhea, fever"
+633,China,,19.01.2020,Hubei,female,66,09.01.2020,NA,,,,,No,yes,21.01.2020,,"chest distress, fever"
+634,China,,18.01.2020,Hubei,male,58,03.01.2020,NA,,,,,No,yes,24.01.2020,,"chest distress, cough, fever, gasp"
+635,China,,23.01.2020,Hubei,male,78,13.01.2020,NA,,,,,No,yes,24.01.2020,,"cough, fever"
+636,China,,16.01.2020,Hubei,male,65,12.01.2020,NA,,,,,No,yes,23.01.2020,,"cough, fever, sensation of chill"
+637,China,,15.01.2020,Hubei,male,67,10.01.2020,NA,,,,,No,yes,24.01.2020,,"dizziness, fever"
+638,China,,17.01.2020,Hubei,female,82,10.01.2020,NA,,,,,No,yes,23.01.2020,,"chest distress, chest pain, fever, weak, dyspnea"
+639,China,,NA,Hubei,female,85,26.11.2020,NA,,,,,NA,NA,21.01.2020,,NA
+640,China,,14.01.2020,Hubei,female,69,NA,20.01.2020,,,,,No,yes,22.01.2020,,"cough, fever, muscular soreness"
+641,China,,21.01.2020,Hubei,female,70,18.01.2020,NA,,,,,No,yes,23.01.2020,,fever
+642,China,,13.01.2020,Hubei,male,81,10.01.2020,NA,,,,,No,yes,21.01.2020,,fever
+643,China,,13.01.2020,Hubei,female,65,NA,23.01.2020,,,,,Yes,no,23.01.2020,,primary myelofibrosis
